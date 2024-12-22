@@ -34,7 +34,6 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/6aRB5Fe.png",MBC 대구
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/B6T0Yg3.png",MBC 전주
-https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/chunklist_w283569664.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/I75ze6B.png",MBC 울산
 
@@ -48,7 +47,6 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/rA8XVuE.png",MBC AMERICA
-
 
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Lw0ZPwv.png",SBS
@@ -103,9 +101,6 @@ http://mytv.dothome.co.kr/ch/public/16.php
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/8GpvKEj.png",KBS2 [dothome]
 http://mytv.dothome.co.kr/ch/public/3.php
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/jy3FJvV.png",KBS LIVE Dokdo
-http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tizfoTc.png",EBS1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 
@@ -135,14 +130,8 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/RB8V8NK.png",채널A [dothome]
 http://mytv.dothome.co.kr/ch/catv/52.php
 
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/zJklWds.png",tvN
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/zJklWds.png",tvN [tistory1]
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_66_B3A7AB53.m3u8
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/UsGJg3E.png",tvN SHOW
-
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/7BwB8eA.png",tvN Asia
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/zm1xjX4.png",KBS News D [dothome]
 http://mytv.dothome.co.kr/ch/catv/1.php
@@ -169,40 +158,10 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tJjeDbM.png",KBS World (720p)
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/YtZSeSJ.png",THE K-POP
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://pbs.twimg.com/media/FSiqLLSWQAIxK78?format=png&name=240x240",K POP
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/vS4SLbi.png",Mnet
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/BQGroir.png",E Channel
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/BcRW7Tq.jpg",iHQ
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/3ALped8.png",SBS M
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/zWEWGIf.png",투니버스
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/9P5uO3w.png",뽀요TV
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tLND9xQ.png",재능TV
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/iAqiCG6.png",육아방송
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/njGG9fX.jpg",OCN
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/hcVXLQj.png",OCN Movies
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/JQnCTcR.png",OCN Movies 2
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/nu0SLV5.png",중화TV
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/AlybDUC.jpg",National Geographic
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/saOtFDE.png",Discovery
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/jy3FJvV.png",KBS LIVE Dokdo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/jy3FJvV.png",KBS LIVE Dokdo [tistory1]
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_501_5ADE998E.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/ty1W8HO.png",MBN [dothome]
 http://mytv.dothome.co.kr/ch/catv/54.php
@@ -212,46 +171,6 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/IRvHdLg.png",YTN2
 https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/p481PmL.png",연합뉴스TV
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/BX6P9U9.png",한국경제
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/G2fnMXG.png",매일경제TV
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/xk3wKEK.jpg",FTV
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/pTgc1qf.png",바둑TV
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/OS1fESW.png",BilliardsTV
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/MlrE4LZ.png",MBC SPORTS+
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/vLyx6p5.png",MBC ON
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Top5ZiD.jpg",SBS SPORTS
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tZOwkga.jpg",SBS Golf
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/YbTaY7u.jpg",KBSN SPORTS
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/H5Z14L9.png",jtbc GOLF
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/vsXbXLi.png",SPO TV
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/HVMIcFl.png",SPO TV 2
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Tb5tmY8.png",SPO TV Prime
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/hs9tHR4.png",SPO TV ON
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/s3kBmsb.png",SPO TV ON2
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/xohM3ND.png",tvN SPORTS
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/C5JFn1c.png",Sky Sports
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/qm8XWxn.png",jtbc GOLF & SPORTS
 
 #EXTINF:28 group-title="KOREA" tvg-logo="https://i.imgur.com/A43MEyp.png",TBS (720p)
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
@@ -282,13 +201,22 @@ https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/u8oWItm.png",KCTV 광주방송 CH05
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/cVABrIi.png",WBC 복지TV
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/kD7axEm.png",Job plus TV
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/JxREiR7.png",국방TV
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/JxREiR7.png",KFN 국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/l9QV2jQ.png",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/N0IeNxy.png",방송대학TV
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/RCJOZU0.png",아리랑TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/qnM3XHk.png",CJ ONSTYLE [dothome]
 http://mytv.dothome.co.kr/ch/catv/91.php
@@ -349,7 +277,6 @@ https://d1acfb5b13qsdr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/2wyoPcE.png",MBC 놀면뭐하니?
 https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8?ads.device_did=%7BPSID
 
-
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/fPZ1pUw.png",MBC 거침없이 하이킥
 https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xnah4o9mnn8-prod/Channel_MBC_6.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
 
@@ -385,3 +312,6 @@ https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/wiGsU7z.png",tvN 라이브
 https://d27qq4sc9v1h7c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxfwub7u3zl2a-ssai-prd/328d5389_0716_4717_979f_372036a0d322/hls/playlist.m3u8?
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/8Dna83H.png",tvN 무인도의 디바
+https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.service_id=KRBC3200030BO
