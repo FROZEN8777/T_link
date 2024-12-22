@@ -1,4 +1,4 @@
-#FROZEN8777 IPTV M3U8 2024.12.21 Release
+#FROZEN8777 IPTV M3U8 2024.12.22 Release
 #EXTM3U
 
 #KOREA
@@ -7,7 +7,7 @@
 http://mytv.dothome.co.kr/ch/public/5.php
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/pzfyH9f.png",MBC 경남
-
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/0sBh5j7.png",MBC 강원영동
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w1967073758.m3u8
@@ -53,6 +53,8 @@ https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Lw0ZPwv.png",SBS
 
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/0kvGUxY.png",G1 SBS (강원)
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/qnsuCHt.png",KBC광주 (SBS) (1080p) [Not 24/7]
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
@@ -101,6 +103,8 @@ http://mytv.dothome.co.kr/ch/public/16.php
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/8GpvKEj.png",KBS2 [dothome]
 http://mytv.dothome.co.kr/ch/public/3.php
 
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/jy3FJvV.png",KBS LIVE Dokdo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tizfoTc.png",EBS1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
@@ -140,6 +144,8 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_66_B3A7AB53.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/7BwB8eA.png",tvN Asia
 
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/zm1xjX4.png",KBS News D [dothome]
+http://mytv.dothome.co.kr/ch/catv/1.php
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/olS7njk.png",KBS Drama [dothome]
 http://mytv.dothome.co.kr/ch/catv/2.php
@@ -147,24 +153,21 @@ http://mytv.dothome.co.kr/ch/catv/2.php
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/iiJzqLy.png",KBS Joy [dothome]
 http://mytv.dothome.co.kr/ch/catv/3.php
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/V1pnVVt.png",KBS Life [dothome]
-http://mytv.dothome.co.kr/ch/catv/5.php
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/zm1xjX4.png",KBS News D [dothome]
-http://mytv.dothome.co.kr/ch/catv/1.php
-
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/ftr5yF1.png",KBS Story [dothome]
 http://mytv.dothome.co.kr/ch/catv/4.php
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tJjeDbM.png",KBS World (720p)
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tJjeDbM.png",KBS World (720p)
-https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tJjeDbM.png",KBS World [dothome]
-http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/V1pnVVt.png",KBS Life [dothome]
+http://mytv.dothome.co.kr/ch/catv/5.php
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/S54mqVc.png",KBS Kids [dothome]
 http://mytv.dothome.co.kr/ch/catv/6.php
+
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tJjeDbM.png",KBS World [dothome]
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tJjeDbM.png",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tJjeDbM.png",KBS World (720p)
 
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/YtZSeSJ.png",THE K-POP
