@@ -2,7 +2,7 @@
 #FROZEN8777 IPTV M3U8 2024.12.20 Release
 
 #KOREA
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 20250830　】
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 20250920　】
 https://#
 
 
@@ -20,7 +20,7 @@ https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/bGXYbt8.png",TBC대구 (SBS)
 
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/6YUj9Ii.png",CJB청주 (SBS)
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/6YUj9Ii.png",CJB청주 (SBS) [x]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/pqy8wF9.png",JTV전주 (SBS)
@@ -29,7 +29,7 @@ http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/xDvzxmM.png",ubc울산 (SBS)
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/AAkul0A.png",KNN부산 (SBS)
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/AAkul0A.png",KNN부산 (SBS) [x]
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 
 
@@ -178,7 +178,7 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_415_3B0A4DFF.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Q3Wo0QL.png",국악방송
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/bGOnaAi.png",NHTV 농협방송
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
@@ -261,6 +261,9 @@ https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 https://etv.publichs.com/live5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/njf9ubD.png",롯데홈쇼핑
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/yU96tzw.png",롯데 ONE TV
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Cq1twut.png",신세계 쇼핑
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
