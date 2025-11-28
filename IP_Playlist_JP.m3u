@@ -4,12 +4,12 @@
 #JAPAN
 
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 20251120　】
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 20251129　】
 https://#
 
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1チャン)
-https://us1001.utako.moe/NHK_G/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/NHK_G/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1チャン) [mov3]
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1チャン) [Primehome]
@@ -18,21 +18,21 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=gd01
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd01
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E (2チャン)
-https://us1001.utako.moe/NHK_E/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/NHK_E/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E (2チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gd02
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E HD (2チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd02
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4チャン)
-https://us1001.utako.moe/TBS/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/TBS/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gd04
 #EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4チャン) HD [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd04
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="tvasahi" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6チャン)
-https://us1001.utako.moe/TV_Asahi/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/TV_Asahi/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6チャン) [mov3]
 http://main1.mov3.co/hls/main.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6チャン) [Primehome]
@@ -41,14 +41,14 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=gd06
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd06
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo (7チャン)
-https://us1001.utako.moe/TV_Tokyo/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/TV_Tokyo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo (7チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gd07
 #EXTINF:-1 group-title="JAPAN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo HD (7チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd07
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8チャン)
-https://us1001.utako.moe/Fuji_TV/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/Fuji_TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8チャン) [mov3]
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8チャン) [Primehome]
@@ -57,17 +57,17 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=gd05
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd05
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 (9チャン)
-https://us1001.utako.moe/Tokyo_MX1/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/Tokyo_MX1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 (9チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gd08
 #EXTINF:-1 group-title="JAPAN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 HD (9チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd08
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX2 (9-2チャン)
-https://us1001.utako.moe/Tokyo_MX2/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/Tokyo_MX2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10チャン)
-https://us1001.utako.moe/Nippon_TV/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/Nippon_TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10チャン) [mov3]
 https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10チャン) [Primehome]
@@ -80,35 +80,35 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd03
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx06
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/siYIGI0.png",SUN TV (3チャン)
-https://us1001.utako.moe/suntv/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/suntv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/siYIGI0.png",SUN TV (3チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx07
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/ORJsGlz.png",MBS (4チャン)
-https://us1001.utako.moe/mbs/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/mbs/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/ORJsGlz.png",MBS (4チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx01
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/SDOf1Bv.png",KBS (5チャン)
-https://us1001.utako.moe/kbs/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/kbs/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/jbRpjfy.png",ABC (6チャン)
-https://us1001.utako.moe/abc/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/abc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/jbRpjfy.png",ABC (6チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx02
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/9w06U7I.png",TV Osaka (7チャン)
-https://us1001.utako.moe/tvo/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/tvo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/9w06U7I.png",TV Osaka (7チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx05
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/BXTKuil.png",関西テレビ (8チャン)
-https://us1001.utako.moe/kansaitv/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/kansaitv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/BXTKuil.png",関西テレビ (8チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx03
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/GcnuP5f.png",読売テレビ (10チャン)
-https://us1001.utako.moe/ytv/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/ytv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/GcnuP5f.png",読売テレビ (10チャン) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx04
 
