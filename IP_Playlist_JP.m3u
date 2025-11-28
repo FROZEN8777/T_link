@@ -117,12 +117,12 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=gx04
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS
-https://nl00.utako.moe/NHK_BS/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/NHK_BS/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs11
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="nhkbsp" tvg-logo="https://i.imgur.com/PeB8OaG.png",NHK BS Premium 4K
-https://nl00.utako.moe/bsp4k/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/bsp4k/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="nhkbsp" tvg-logo="https://i.imgur.com/PeB8OaG.png",NHK BS Premium 4K [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs01
 
@@ -130,60 +130,60 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=bs01
 
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bs10star" tvg-logo="https://i.imgur.com/1FOI6lv.png",BS10 PREMIUM
-https://nl00.utako.moe/bs10_star/index.m3u8
+https://nl.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bs10star" tvg-logo="https://i.imgur.com/1FOI6lv.png",BS10 PREMIUM [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs08
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bs11" tvg-logo="https://i.imgur.com/ODNGv8G.png",BS11
-https://nl00.utako.moe/BS11/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/BS11/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bs11" tvg-logo="https://i.imgur.com/FhGSnBh.png",BS12 [x]
 https://mt01.utako.moe/bs12/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsntv" tvg-logo="https://i.imgur.com/FSEraUD.png",BS 日テレ
-https://nl00.utako.moe/bsntv/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/bsntv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsntv" tvg-logo="https://i.imgur.com/FSEraUD.png",BS 日テレ [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs02
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日
-https://nl00.utako.moe/bsasahi/index.m3u8
+https://nl.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs03
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS
-https://nl00.utako.moe/bstbs/index.m3u8
+https://nl.utako.moe/bstbs/index.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs04
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo
-https://nl00.utako.moe/bstvtokyo/index.m3u8
+https://nl.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs05
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji
-https://nl00.utako.moe/bsfuji/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/bsfuji/tracks-v1a1/mono.ts.m3u8
 \#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs06
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/JDWZhBk.png",WOWOW Prime
-https://nl00.utako.moe/wprime/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/wprime/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/JDWZhBk.png",WOWOW Prime [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs12
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/NM6C9Ut.png",WOWOW Cinema
-https://nl00.utako.moe/wcinema/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/wcinema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/NM6C9Ut.png",WOWOW Cinema [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs07
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowlive" tvg-logo="https://i.imgur.com/0WzT8T7.png",WOWOW Live
-https://nl00.utako.moe/wlive/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/wlive/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowlive" tvg-logo="https://i.imgur.com/0WzT8T7.png",WOWOW Live [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs20
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowplus" tvg-logo="https://i.imgur.com/IQj7wgV.png",WOWOW Plus
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/Smo8IeO.png",日本映画専門チャンネル
-https://nl00.utako.moe/nihoneiga/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/nihoneiga/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/Smo8IeO.png",日本映画専門チャンネル [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs23
 
@@ -196,32 +196,32 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=bs23
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="" tvg-logo="https://i.imgur.com/BcwT1tN.png",BS松竹東急
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="js1" tvg-logo="https://i.imgur.com/1AS0EQQ.png",J SPORTS 1
-https://nl00.utako.moe/js1/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/js1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="js1" tvg-logo="https://i.imgur.com/1AS0EQQ.png",J SPORTS 1 [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs18
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="js2" tvg-logo="https://i.imgur.com/BgdzJtn.png",J SPORTS 2
-https://nl00.utako.moe/js2/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/js2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="js2" tvg-logo="https://i.imgur.com/BgdzJtn.png",J SPORTS 2 [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs19
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="js3" tvg-logo="https://i.imgur.com/2HwhysX.png",J SPORTS 3
-https://nl00.utako.moe/js3/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/js3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="js3" tvg-logo="https://i.imgur.com/2HwhysX.png",J SPORTS 3 [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs21
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="js4" tvg-logo="https://i.imgur.com/pa9669n.png",J SPORTS 4
-https://nl00.utako.moe/js4/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/js4/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="js4" tvg-logo="https://i.imgur.com/pa9669n.png",J SPORTS 4 [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs22
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="greench" tvg-logo="https://i.imgur.com/OlGWXHj.png",GREEN Channel
-https://nl00.utako.moe/green/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/green/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="greench" tvg-logo="https://i.imgur.com/OlGWXHj.png",GREEN Channel [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs14
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="gaora" tvg-logo="https://i.imgur.com/q31tcoy.png",GAORA SPORTS
-https://nl00.utako.moe/gaora/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/gaora/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="gaora" tvg-logo="https://i.imgur.com/q31tcoy.png",GAORA SPORTS [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs17
 
@@ -229,12 +229,12 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs17
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX
-https://nl00.utako.moe/Animax/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/Animax/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs15
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="disneych" tvg-logo="https://i.imgur.com/RtlPVqo.png",Disney Channel Japan
-https://nl00.utako.moe/disneychan/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/disneychan/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="disneych" tvg-logo="https://i.imgur.com/RtlPVqo.png",Disney Channel Japan [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs24 
 
@@ -243,59 +243,59 @@ https://proxyvn.utako.moe/ph.php?&isp=2&id=bs31
 
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A)
-https://nl00.utako.moe/skya/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/skya/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A) [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
-https://nl00.utako.moe/sport_live_plus/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/sport_live_plus/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/S8q6NNY.png",NHK World Japan
 
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/ahVYCFJ.png",TBS チャンネル 1
-https://nl00.utako.moe/tbsch1/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/tbsch1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 gFroup-title="JAPAN_CS" tvg-logo="https://i.imgur.com/rPLmGYa.png",TBS チャンネル 2
-https://nl00.utako.moe/tbsch2/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/tbsch2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/59urRJw.png",テレ朝 ch1
-https://nl00.utako.moe/ex_ch1/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/ex_ch1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/nQDjt8d.png",テレ朝 ch2
-https://nl00.utako.moe/ex_ch2/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/ex_ch2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="fuji_tv_one" tvg-logo="https://i.imgur.com/VMtAMSl.png",Fuji TV ONE
-https://nl00.utako.moe/fuji_one/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/fuji_one/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="fuji_tv_two" tvg-logo="https://i.imgur.com/Pqr5Hc5.png",Fuji TV TWO
-https://nl00.utako.moe/fuji_two/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/fuji_two/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT
-https://nl00.utako.moe/fuji_next/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/fuji_next/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT [Primehome]
 
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="mnet" tvg-logo="https://i.imgur.com/I2rZ0a2.png",Mnet
-https://nl00.utako.moe/mnet/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/mnet/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/4lA3ujd.png",Space Shower TV
-https://nl00.utako.moe/spaceshower/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/spaceshower/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/4lA3ujd.png",Space Shower TV [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=bs26
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/cW3BuH8.png",歌謡ポップスチャンネル
-https://nl00.utako.moe/kayopops/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/kayopops/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/cW3BuH8.png",歌謡ポップスチャンネル [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs13
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="mtv" tvg-logo="https://i.imgur.com/k5SjvRZ.png",MTV
-https://nl00.utako.moe/mtv/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/mtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="mtv" tvg-logo="https://i.imgur.com/k5SjvRZ.png",MTV [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs18
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network
-https://nl00.utako.moe/cartoon_network/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/cartoon_network/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs25
 
@@ -306,12 +306,12 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/GbHFx5O.jpg",AT-X
-https://nl00.utako.moe/AT-X/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/AT-X/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/HKzAE4U.png",アクションチャンネル
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="homedrama" tvg-logo="https://i.imgur.com/oAahRiY.png",ホームドラマチャンネル
-https://nl00.utako.moe/homedrama/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/homedrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="homedrama" tvg-logo="https://i.imgur.com/oAahRiY.png",ホームドラマチャンネル [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs05
 
@@ -321,17 +321,17 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs19
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/lNY4pHz.png",スーパー!ドラマTV
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河
-https://nl00.utako.moe/gingach/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/gingach/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河 [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=2&id=cs29
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="toeich" tvg-logo="https://i.imgur.com/l9ogNCL.jpg",東映チャンネル
-https://nl00.utako.moe/toei/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/toei/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="toeich" tvg-logo="https://i.imgur.com/l9ogNCL.jpg",東映チャンネル [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs27
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="familygeki" tvg-logo="https://i.imgur.com/NwWMeDe.png",ファミリー劇場
-https://nl00.utako.moe/familygeki/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/familygeki/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="familygeki" tvg-logo="https://i.imgur.com/NwWMeDe.png",ファミリー劇場 [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs20
 
@@ -339,7 +339,7 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs20
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs22
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="neco" tvg-logo="https://i.imgur.com/rSw1VRn.png",映画・チャンネルNECO
-https://nl00.utako.moe/neco/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/neco/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="thecinema" tvg-logo="https://i.imgur.com/yAyyAi7.png",ザ・シネマ (The Cinema)
 
@@ -350,22 +350,22 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs14
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs04
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="v_paradise" tvg-logo="https://i.imgur.com/1jbDsxl.png",V Paradise (NSFW)
-https://nl00.utako.moe/v_paradise/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/v_paradise/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="fox" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife
-https://nl00.utako.moe/dlife/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/dlife/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/hkdoiaW.png",日テレジータス
-https://nl00.utako.moe/ntvgplus/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/ntvgplus/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/IayTCS3.png",FIGHTING TV サムライ
-https://nl00.utako.moe/fighting_tv/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/fighting_tv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/GlPDTnn.png",エンタメ～テレ
-https://nl00.utako.moe/entermei_tele/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/entermei_tele/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/0C5G1lV.png",MONDO TV
-https://nl00.utako.moe/mondo/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/mondo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/0C5G1lV.png",MONDO TV [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs21
 
@@ -380,7 +380,7 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06
 https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル
-https://nl00.utako.moe/tabi/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/tabi/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル [Primehome]
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs12
 
