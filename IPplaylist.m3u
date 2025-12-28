@@ -2,7 +2,7 @@
 #FROZEN8777 IPTV M3U8 2024.12.20 Release
 
 #KOREA
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 20250920　】
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 20251229　】
 https://#
 
 
@@ -18,9 +18,9 @@ https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/GQ7wXlu.png",TJB대전 (SBS)
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/bGXYbt8.png",TBC대구 (SBS)
+http://203.251.91.227:9999/hls/otv-eorn-xlqltl-dbekftks-ext-002-334/index.m3u8
 
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/6YUj9Ii.png",CJB청주 (SBS) [x]
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/6YUj9Ii.png",CJB청주 (SBS)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/pqy8wF9.png",JTV전주 (SBS)
@@ -29,9 +29,8 @@ http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/xDvzxmM.png",ubc울산 (SBS)
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/AAkul0A.png",KNN부산 (SBS) [x]
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/AAkul0A.png",KNN부산 (SBS)
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/a8dOD1r.png",JIBS제주 (SBS)
 http://123.140.197.22/stream/1/play.m3u8
@@ -40,28 +39,28 @@ http://123.140.197.22/stream/1/play.m3u8
 
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/nLeExpR.png",KBS1 [dothome]
-http://mytv.dothome.co.kr/ch/public/1.php
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjcwODg0NjJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=g1X5hVTWrcUltf0CFicwG~izvKtlO7XGeH1tY4IXd8jr3ZpKO9eGXs3AlEQBvUmt65HWOjPfG~KFuGpYryJLneKZDX6~qLfO-zxhLtmUg3MYfBlyE7a24amJKhIYybVQcMDJadJWya5-LVHXm7qnn7jvRQ3qENbK9JNdEuEbpFHd~RuP2KgwVxmfsPDFFnKkNTkTZyL7hemOhC1vOabMbuVaFZ~x3kWROsdC-RvEoSw76ASyn2Ow1DftvpnW3yyPXNecLia4eWKmMsal0yu4ymb1fpQHSf2bWgd1Dk~v0mi~Gec9GiJzqbXMajz37hSjtKpx~xDQZ7iJc29NvjLkOg__
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/s4c80E2.png",KBS1 광주 [dothome]
-http://mytv.dothome.co.kr/ch/public/12.php
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/alolW6I.png",KBS1 대전 [dothome]
-http://mytv.dothome.co.kr/ch/public/11.php
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/xniPsFU.png",KBS1 대구경북 [dothome]
-http://mytv.dothome.co.kr/ch/public/13.php
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/X04X1s9.png",KBS1 울산 [dothome]
-http://mytv.dothome.co.kr/ch/public/14.php
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/yW7TP2a.png",KBS1 부산 [dothome]
-http://mytv.dothome.co.kr/ch/public/15.php
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/bGUcFhx.png",KBS1 춘천 [dothome]
-http://mytv.dothome.co.kr/ch/public/16.php
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/8GpvKEj.png",KBS2 [dothome]
-http://mytv.dothome.co.kr/ch/public/3.php
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjcwODg2Mzd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=iYptD9151g3ZmgBGPtqGDiI4mGI2sBNH5gR8m8JlxpCukVGbjuZ0HTHLP9H3rbNsYxjwtbyEhx6sMUSlYbkjpkoW3CZZ8Quwvc0W5FzN5h-YBv6yosIv59GwXQNaowxmfz1kcWwB60KcndbVQKcILyWRRiFbhZgRa1q38uZ5VmSV1tb-74PFIGAtO1KHrzjd~JRBU8gaFjy-Tlb7JpSINXFc4i4gChW3sINFSbbkyZONL5qTIncz1ZNvZivIqn7Fa2o-rUBvTCHUaXa-oD9BNEBxI6S9DzXymvqV2f7qgQ5qAAMQ8znv79EIjVis-Kd6ZSGHKWJQ0-bnvyTam8WN3Q__
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/FspY016.png",MBC [x]
 http://www.hwado.net/webtv/catv/503_CFEA7803.php
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/pzfyH9f.png",MBC 경남 [x]
-https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/pzfyH9f.png",MBC 경남
+https://wowza.mbcgn.kr/MBCTV/TV1.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/0sBh5j7.png",MBC 강원영동
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
@@ -131,32 +130,33 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/RB8V8NK.png",채널A [x]
 http://www.hwado.net/webtv/catv/52_440DDPPJ.php
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/RB8V8NK.png",채널A [tistory1] [x]
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/RB8V8NK.png",채널A [tistory1]
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 #ttp://mytv.dothome.co.kr/ch/catv/52.php
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/zJklWds.png",tvN [tistory1]
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/zJklWds.png",tvN
+https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/xHg6EHF.png",KBS 24 [dothome]
-http://mytv.dothome.co.kr/ch/catv/1.php
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/olS7njk.png",KBS Drama [dothome]
-http://mytv.dothome.co.kr/ch/catv/2.php
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/iiJzqLy.png",KBS Joy [dothome]
-http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/olS7njk.png",KBS Drama
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY3MDg4NjQ0fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=lPe3zJszXgmzNrJMJ~6LA3Uyob4JTRkQaCeRcamkkUgalXT6DzJw-ZsYiXewuwJOEtLlq4moVsUXc~3e-UbC8Wfq~7FfP26zqWUo-B7~q1WtODkolBQN1IwXKBkPyNIRb6Z0wOUzTfOBvk1lIxU~q5V8UdMI64kxiuo1rJmvvNGHh0CZL7K-CtZpFZxMmwdtDmMgXR177LG0fs4yuAK5YUBWNPUBfV3lMj9R9m4OplnZGTgeYRXqIfhdSJ8Q4lt6zB76jtGy4OLLiiFolpQ1TMm0B3H-u9AWRNT~CgWUC7oct2SaLhRuc5cNubXhzst1B7Becr661Lm9Z2PYo-OAYw__
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/ftr5yF1.png",KBS Story [dothome]
-http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/iiJzqLy.png",KBS Joy
+https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjcwODg2NzN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=cl6v-d8II3M1XdCXD~FpFUeEQxC0pZiPKioUG1GZcK-50EIFXIQaT59QuV43Fz0FnIHsWxahSGvnseJLwxfpzXWODylQORAU4TBYYXLJai3fr8~t4AICUMY5ZDZUZAXMCsNsaDGO6Pa9fbxFhpReBo7pMseSH-iISqqilaNtA91ZRV5-a5ozk4vK5u2ROoZ~gJndYNVhKIuZE5pR-ccuFUuVHaITp7j80n9gQbwnM0dM0ivbF87PjXDB9MOrTgi-KAh7f6rE3uYF5CG5AXLbkGr4ZMyPev0k1S~5PeCpLpXLtUgrM7W8kPxJHyvC~WyagRLQJEoLf2qnnICC1EeqRw__
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/V1pnVVt.png",KBS Life [dothome]
-http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/ftr5yF1.png",KBS Story
+https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2NzA4ODY4MX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Tu60iySo4tDo4c57DN0LIQOU2RElPO1do7JRGOwcv7yJ~pt~Pkx73lwqIEPYRnJsqspyMEI-BrOts2yMN8TtM~QdFBABadrAp88eaTjnRjgRZG-8QE4jGDyxmJgYlBSy6UDWbj4-PCnl5qxo7tdS7hKj-hEAaZ~F4m8Af2GqwUbkkkh92uDsZvQx6R64gb-aaCYRJcm7f6wn-XBDtu4a~eNu~~BrY7ieZlUlkVicG3PAHzmHukG2N-0qkyvIMDC6VQcyL4zLcTdegn1PzDjS8sE1rLTZ9kdMbMuWhW~w6PRIeIRFLpk7syhI-xcMntpbSLlHfPqcdUUiKkYF8qKDGw__
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/S54mqVc.png",KBS Kids [dothome]
-http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/V1pnVVt.png",KBS Life
+https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2NzA4ODY4Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QazBEnp9U5Uue--Sv86roZQRSHn4FJFJXzcS-xJqoMV60-5s4hfDfeHU7KIjQTLFQfaSua8~PUTMdyTsIOeVNo9kRuYIMuFYaupLHs~bJAJmQiYnQOp4277eW4buHbWZtaBtwJ~oD5~8Ywy8zSIy~sFPOhwAWHKybqh7dU8zXSjSaHRYgGdNQQ5eKWvW-zOHly3NSprKX65WW8ApoeDDNnHWlXEiNwbMhR5L-njpO06owQhIpR9-q8H5ENEiHeWSqdEIAdIv60wZFpEc49kj8peY-AAcTt~B0o4861fcJV7qg9jlc3KcHnHppLxQyCZnSiAzIylg2hJdW9DALqZwlQ__
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tJjeDbM.png",KBS World [dothome]
-http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/S54mqVc.png",KBS Kids
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2NzA4ODY4Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=TdmkUW~bSLYXG8~5C10hH3qWAV5jjwtRX-7tQE-lVGxK33hHY2sgMqR1wv3OUOGnRIXAun8lqHV~TdTGtIJu7FxO1RV35rqJawC-tU8zv-3xUwZlHl0-q-Um1KqNBCe-r8uvvyD5qNOafTl7atnkK0FqYmeMCx5hAC1t~KfZsm-QJZvXuKmcL9hg3f-uD4EfJtsBtgSKAuaYqalA5YkrIxWZFLU5EEERacKFFlLQr2vix90r5CC6Gj0MJSqWdudDlCb~vJDXYJ2lqsRTAl2EMhxgAu7L3KWlJ5h6RX4tkMQaFOVxGA~RQxvsnuge63NEESn5Tit8yDfbU1mxyDbVZQ__
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/tJjeDbM.png",KBS World
+https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2NzA4ODcxMX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ErGD8j3R60k3kOrnF79OUjmuV8uvssRtpEinpxHiQAIJM4MiWJNZCHKoCQyUlle6GjX0ZEaZe~IZ4uG50WZi2LnCORjH9EoYqSgVbWkfbqnxLQYjBlApn71QFXRG-ZUF~bzDIMJVvBbn9-wKm1TLSNTPpnRX6i3in6fej4pa~sNKaeTzht5xC29TkLxNQJ4Ny8Jy3Qgf2nHU0J45UbdqbTeQtM9Vb8QOVCgMYHmuyvy4U8OEQjfL8LG7fx148k7znpGZ8aP8wGqqFgFLrihFYM0B6-sO9SZH9tM5XbqEpty~Sjy-YJkg8uvRqFIlXjf2NwAH2dL0b963cMn38ikxJw__
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/jy3FJvV.png",KBS LIVE Dokdo
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
@@ -312,10 +312,11 @@ https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://#
 #EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/Lw0ZPwv.png",SBS
 http://1.214.67.103/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/nLeExpR.png",KBS1
+#EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/nLeExpR.png",KBS1 [X]
+http://1.214.67.103/vod/50101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/8GpvKEj.png",KBS2
 http://1.214.67.103/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/FspY016.png",MBC
+#EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/FspY016.png",MBC [X]
 http://1.214.67.103/vod/50301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/tizfoTc.png",EBS1
 http://1.214.67.103/vod/38201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
@@ -402,13 +403,13 @@ http://1.214.67.103/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 #EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/iALbzvH.png",FTV
 http://1.214.67.103/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="",스포츠/프로야구 (5ch.통합화면)
-http://1.214.67.103/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+
 #EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/8UufyU4.png",토마토 증권통
 http://1.214.67.103/vod/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/K90lcAB.png",PLAYY 프리미엄
-http://1.214.67.103/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+
 #EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/iwhS4o4.png",PLAYY 월메이드
-http://1.214.67.103/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+
 #EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/qnM3XHk.png",CJ ONSTYLE
 http://1.214.67.103/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="KOR_IP_Only" tvg-logo="https://i.imgur.com/4auGDK2.png",NS홈쇼핑
