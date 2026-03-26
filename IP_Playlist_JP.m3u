@@ -25,6 +25,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E HD (2チャン) [Primehome]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
 
+#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4チャン) [mov3]
+https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4チャン)
 https://nl.utako.moe/TBS/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4チャン) [Primehome]
@@ -252,7 +254,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 https://nl.utako.moe/sport_live_plus/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/S8q6NNY.png",NHK World Japan
-
+https://nhk.lls.pbs.org/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/ahVYCFJ.png",TBS チャンネル 1
 https://nl.utako.moe/tbsch1/index.m3u8
@@ -423,6 +425,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/KDoMWay.png",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png",SHOP CHANNEL
+https://stream3.shopch.jp/HLS/master.m3u8
 
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/HCrWTCz.png",群馬テレビ Gunma TV
 
