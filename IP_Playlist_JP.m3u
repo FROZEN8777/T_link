@@ -4,7 +4,7 @@
 #JAPAN
 
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 2026/03/26　】
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 2026/03/27　】
 https://#
 
 
@@ -116,7 +116,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="nhkwp" tvg-logo="https://i.imgur.com/KA2nQl6.png",NHK World Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
@@ -140,7 +140,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 https://nl.utako.moe/BS11/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bs11" tvg-logo="https://i.imgur.com/FhGSnBh.png",BS12 [x]
-https://mt01.utako.moe/bs12/index.m3u8
+
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsntv" tvg-logo="https://i.imgur.com/FSEraUD.png",BS 日テレ
 https://nl.utako.moe/bsntv/index.m3u8
@@ -164,7 +164,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji
 https://nl.utako.moe/bsfuji/index.m3u8
-\#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji [P]
+#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 
 #EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/JDWZhBk.png",WOWOW Prime
@@ -276,7 +276,7 @@ https://nl.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT
 https://nl.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT [P]
-
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="mnet" tvg-logo="https://i.imgur.com/I2rZ0a2.png",Mnet Japan
 https://nl.utako.moe/mnet/index.m3u8
@@ -301,6 +301,8 @@ https://nl.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 
+#EXTINF:-1 group-title="JAPAN_CS" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station
+https://nl.utako.moe/kids_station/index.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
@@ -344,6 +346,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 https://nl.utako.moe/neco/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="thecinema" tvg-logo="https://i.imgur.com/yAyyAi7.png",ザ・シネマ (The Cinema)
+https://nl.utako.moe/the_cinema/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="movieplus" tvg-logo="https://i.imgur.com/4fPQrVw.png",ムービープラス (Movie Plus) [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
@@ -351,7 +354,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="familygeki" tvg-logo="https://i.imgur.com/PK6wc9g.png",時代劇専門チャンネル [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="v_paradise" tvg-logo="https://i.imgur.com/1jbDsxl.png",V Paradise (NSFW)
+#EXTINF:-1 group-title="JAPAN_CS" tvg-id="v_paradise" tvg-logo="https://i.imgur.com/1jbDsxl.png",V Paradise
 https://nl.utako.moe/v_paradise/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="fox" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife
@@ -371,13 +374,14 @@ https://nl.utako.moe/mondo/index.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/0C5G1lV.png",MONDO TV [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/iZ17rjw.png",pigoo
+#EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/iZ17rjw.png",Pigoo
 https://nl.utako.moe/pigoo/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/RsdItoE.png",MUSIC JAPAN [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/rKwzSDu.png",Music ON TV!
+https://nl.utako.moe/musicon/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/yGwjs7A.png",囲碁・将棋チャンネル
 
@@ -389,8 +393,6 @@ https://nl.utako.moe/tabi/index.m3u8
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/VaOZoyD.png",フジテレビ NEXT
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 
 #EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/saOtFDE.png",Discovery [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
