@@ -53,6 +53,9 @@ http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/8GpvKEj.png",KBS2
 
 
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/FspY016.png",MBC [t]
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_3_2E9FD49B.m3u8
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/pzfyH9f.png",MBC 경남
 https://wowza.mbcgn.kr/MBCTV/TV1.stream/playlist.m3u8
 
