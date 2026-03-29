@@ -1,437 +1,451 @@
 #EXTM3U
 #AirWaveTV_ch2 2026/03/29 Release
-#Update date 2026/03/29
+#Update date 2026/03/30
 
 #JAPAN
 
 
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch)
 https://nl.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) [M]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) [M]
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G HD (1ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G HD (1ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E (2ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E (2ch)
 https://nl.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E (2ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E (2ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E HD (2ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E HD (2ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch)
 https://nl.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) [M]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) [M]
 https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) HD [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) HD [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="tvasahi" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tvasahi" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch)
 https://nl.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch) [M]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch) [M]
 http://main1.mov3.co/hls/main.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 HD (6ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 HD (6ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo (7ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo (7ch)
 https://nl.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo (7ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo (7ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-#EXTINF:-1 group-title="JAPAN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo HD (7ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo HD (7ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch)
 https://nl.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch) [M]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch) [M]
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
-#EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV HD (8ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV HD (8ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 (9ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 (9ch)
 https://nl.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 (9ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 (9ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-#EXTINF:-1 group-title="JAPAN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 HD (9ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 HD (9ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX2 (9-2ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX2 (9-2ch)
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch)
 https://nl.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch) [M]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch) [M]
 https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ HD (10ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ HD (10ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
 
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G Osaka (1ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G Osaka (1ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/siYIGI0.png",SUN TV (3ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/siYIGI0.png",SUN TV (3ch)
 https://nl.utako.moe/suntv/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/siYIGI0.png",SUN TV (3ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/siYIGI0.png",SUN TV (3ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/ORJsGlz.png",MBS (4ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ORJsGlz.png",MBS (4ch)
 https://nl.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/ORJsGlz.png",MBS (4ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ORJsGlz.png",MBS (4ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/SDOf1Bv.png",KBS (5ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/SDOf1Bv.png",KBS (5ch)
 https://nl.utako.moe/kbs/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/jbRpjfy.png",ABC (6ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jbRpjfy.png",ABC (6ch)
 https://nl.utako.moe/abc/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/jbRpjfy.png",ABC (6ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jbRpjfy.png",ABC (6ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/9w06U7I.png",TV Osaka (7ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/9w06U7I.png",TV Osaka (7ch)
 https://nl.utako.moe/tvo/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/9w06U7I.png",TV Osaka (7ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/9w06U7I.png",TV Osaka (7ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/BXTKuil.png",関西テレビ (8ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/BXTKuil.png",関西テレビ (8ch)
 https://nl.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/BXTKuil.png",関西テレビ (8ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/BXTKuil.png",関西テレビ (8ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/GcnuP5f.png",読売テレビ (10ch)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GcnuP5f.png",読売テレビ (10ch)
 https://nl.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="" tvg-logo="https://i.imgur.com/GcnuP5f.png",読売テレビ (10ch) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GcnuP5f.png",読売テレビ (10ch) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="nhkwp" tvg-logo="https://i.imgur.com/KA2nQl6.png",NHK World Premium
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/S8q6NNY.png",NHK World Japan
+https://nhk.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/S8q6NNY.png",NHK World Japan [F]
+https://stream1.freetv.fun/d10b157216483dbbe97818c472af25e7f9ba086e7abe82c0bebf8b715ebc7cdf.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkwp" tvg-logo="https://i.imgur.com/KA2nQl6.png",NHK World Premium
 
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="nhkbsp" tvg-logo="https://i.imgur.com/PeB8OaG.png",NHK BS Premium 4K
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbsp" tvg-logo="https://i.imgur.com/PeB8OaG.png",NHK BS Premium 4K
 https://nl.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="nhkbsp" tvg-logo="https://i.imgur.com/PeB8OaG.png",NHK BS Premium 4K [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbsp" tvg-logo="https://i.imgur.com/PeB8OaG.png",NHK BS Premium 4K [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bs10" tvg-logo="https://i.imgur.com/YtEpA8L.png",BS10 [x]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs10" tvg-logo="https://i.imgur.com/YtEpA8L.png",BS10 [x]
 
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bs10star" tvg-logo="https://i.imgur.com/1FOI6lv.png",BS10 PREMIUM
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs10star" tvg-logo="https://i.imgur.com/1FOI6lv.png",BS10 PREMIUM
 https://nl.utako.moe/bs10_star/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bs10star" tvg-logo="https://i.imgur.com/1FOI6lv.png",BS10 PREMIUM [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs10star" tvg-logo="https://i.imgur.com/1FOI6lv.png",BS10 PREMIUM [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bs11" tvg-logo="https://i.imgur.com/ODNGv8G.png",BS11
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs11" tvg-logo="https://i.imgur.com/ODNGv8G.png",BS11
 https://nl.utako.moe/BS11/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bs11" tvg-logo="https://i.imgur.com/FhGSnBh.png",BS12 [x]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs11" tvg-logo="https://i.imgur.com/FhGSnBh.png",BS12 [x]
 
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsntv" tvg-logo="https://i.imgur.com/FSEraUD.png",BS 日テレ
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsntv" tvg-logo="https://i.imgur.com/FSEraUD.png",BS 日テレ
 https://nl.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsntv" tvg-logo="https://i.imgur.com/FSEraUD.png",BS 日テレ [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsntv" tvg-logo="https://i.imgur.com/FSEraUD.png",BS 日テレ [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日
 https://nl.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS
 https://nl.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo
 https://nl.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji
 https://nl.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/JDWZhBk.png",WOWOW Prime
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/JDWZhBk.png",WOWOW Prime
 https://nl.utako.moe/wprime/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/JDWZhBk.png",WOWOW Prime [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/JDWZhBk.png",WOWOW Prime [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/NM6C9Ut.png",WOWOW Cinema
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/NM6C9Ut.png",WOWOW Cinema
 https://nl.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/NM6C9Ut.png",WOWOW Cinema [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/NM6C9Ut.png",WOWOW Cinema [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowlive" tvg-logo="https://i.imgur.com/0WzT8T7.png",WOWOW Live
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowlive" tvg-logo="https://i.imgur.com/0WzT8T7.png",WOWOW Live
 https://nl.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowlive" tvg-logo="https://i.imgur.com/0WzT8T7.png",WOWOW Live [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowlive" tvg-logo="https://i.imgur.com/0WzT8T7.png",WOWOW Live [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="wowowplus" tvg-logo="https://i.imgur.com/IQj7wgV.png",WOWOW Plus
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowplus" tvg-logo="https://i.imgur.com/IQj7wgV.png",WOWOW Plus
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/Smo8IeO.png",日本映画専門チャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/Smo8IeO.png",日本映画専門チャンネル
 https://nl.utako.moe/nihoneiga/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/Smo8IeO.png",日本映画専門チャンネル [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/Smo8IeO.png",日本映画専門チャンネル [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="starch1" tvg-logo="https://i.imgur.com/UTs4S01.png",Star1
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="starch1" tvg-logo="https://i.imgur.com/UTs4S01.png",Star1
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="starch2" tvg-logo="https://i.imgur.com/4ylKus2.png",Star2
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="starch2" tvg-logo="https://i.imgur.com/4ylKus2.png",Star2
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="starch3" tvg-logo="https://i.imgur.com/Jd4JDcw.jpg",Star3
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="starch3" tvg-logo="https://i.imgur.com/Jd4JDcw.jpg",Star3
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="" tvg-logo="https://i.imgur.com/BcwT1tN.png",BS松竹東急
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/BcwT1tN.png",BS松竹東急
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="js1" tvg-logo="https://i.imgur.com/1AS0EQQ.png",J SPORTS 1
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js1" tvg-logo="https://i.imgur.com/1AS0EQQ.png",J SPORTS 1
 https://nl.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="js1" tvg-logo="https://i.imgur.com/1AS0EQQ.png",J SPORTS 1 [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js1" tvg-logo="https://i.imgur.com/1AS0EQQ.png",J SPORTS 1 [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="js2" tvg-logo="https://i.imgur.com/BgdzJtn.png",J SPORTS 2
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js2" tvg-logo="https://i.imgur.com/BgdzJtn.png",J SPORTS 2
 https://nl.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="js2" tvg-logo="https://i.imgur.com/BgdzJtn.png",J SPORTS 2 [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js2" tvg-logo="https://i.imgur.com/BgdzJtn.png",J SPORTS 2 [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="js3" tvg-logo="https://i.imgur.com/2HwhysX.png",J SPORTS 3
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js3" tvg-logo="https://i.imgur.com/2HwhysX.png",J SPORTS 3
 https://nl.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="js3" tvg-logo="https://i.imgur.com/2HwhysX.png",J SPORTS 3 [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js3" tvg-logo="https://i.imgur.com/2HwhysX.png",J SPORTS 3 [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="js4" tvg-logo="https://i.imgur.com/pa9669n.png",J SPORTS 4
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js4" tvg-logo="https://i.imgur.com/pa9669n.png",J SPORTS 4
 https://nl.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="js4" tvg-logo="https://i.imgur.com/pa9669n.png",J SPORTS 4 [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js4" tvg-logo="https://i.imgur.com/pa9669n.png",J SPORTS 4 [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="greench" tvg-logo="https://i.imgur.com/OlGWXHj.png",GREEN Channel
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="greench" tvg-logo="https://i.imgur.com/OlGWXHj.png",GREEN Channel
 https://nl.utako.moe/green/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="greench" tvg-logo="https://i.imgur.com/OlGWXHj.png",GREEN Channel [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="greench" tvg-logo="https://i.imgur.com/OlGWXHj.png",GREEN Channel [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="gaora" tvg-logo="https://i.imgur.com/q31tcoy.png",GAORA SPORTS
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="gaora" tvg-logo="https://i.imgur.com/q31tcoy.png",GAORA SPORTS
 https://nl.utako.moe/gaora/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="gaora" tvg-logo="https://i.imgur.com/q31tcoy.png",GAORA SPORTS [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="gaora" tvg-logo="https://i.imgur.com/q31tcoy.png",GAORA SPORTS [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="fishing" tvg-logo="https://i.imgur.com/3TfvUTJ.png",釣りビジョン [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fishing" tvg-logo="https://i.imgur.com/3TfvUTJ.png",釣りビジョン [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX
 https://nl.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="disneych" tvg-logo="https://i.imgur.com/RtlPVqo.png",Disney Channel Japan
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneych" tvg-logo="https://i.imgur.com/RtlPVqo.png",Disney Channel Japan
 https://nl.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="disneych" tvg-logo="https://i.imgur.com/RtlPVqo.png",Disney Channel Japan [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneych" tvg-logo="https://i.imgur.com/RtlPVqo.png",Disney Channel Japan [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24 
 
-#EXTINF:-1 group-title="JAPAN_BS" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS [P]
 https://proxyvn.utako.moe/ph.php?&isp=2&id=bs31
 
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A)
 https://nl.utako.moe/skya/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
 https://nl.utako.moe/sport_live_plus/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/S8q6NNY.png",NHK World Japan
-https://nhk.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/ahVYCFJ.png",TBS チャンネル 1
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/ahVYCFJ.png",TBS チャンネル 1
 https://nl.utako.moe/tbsch1/index.m3u8
 
-#EXTINF:-1 gFroup-title="JAPAN_CS" tvg-logo="https://i.imgur.com/rPLmGYa.png",TBS チャンネル 2
+#EXTINF:-1 gFroup-title="IPTV_JPN" tvg-logo="https://i.imgur.com/rPLmGYa.png",TBS チャンネル 2
 https://nl.utako.moe/tbsch2/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/59urRJw.png",テレ朝 ch1
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/59urRJw.png",テレ朝 ch1
 https://nl.utako.moe/ex_ch1/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/nQDjt8d.png",テレ朝 ch2
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/nQDjt8d.png",テレ朝 ch2
 https://nl.utako.moe/ex_ch2/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="fuji_tv_one" tvg-logo="https://i.imgur.com/VMtAMSl.png",Fuji TV ONE
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_one" tvg-logo="https://i.imgur.com/VMtAMSl.png",Fuji TV ONE
 https://nl.utako.moe/fuji_one/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="fuji_tv_two" tvg-logo="https://i.imgur.com/Pqr5Hc5.png",Fuji TV TWO
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_two" tvg-logo="https://i.imgur.com/Pqr5Hc5.png",Fuji TV TWO
 https://nl.utako.moe/fuji_two/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT
 https://nl.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="mnet" tvg-logo="https://i.imgur.com/I2rZ0a2.png",Mnet Japan
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="mnet" tvg-logo="https://i.imgur.com/I2rZ0a2.png",Mnet Japan
 https://nl.utako.moe/mnet/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/4lA3ujd.png",Space Shower TV
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/4lA3ujd.png",Space Shower TV
 https://nl.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/4lA3ujd.png",Space Shower TV [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/4lA3ujd.png",Space Shower TV [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/cW3BuH8.png",歌謡ポップスチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/cW3BuH8.png",歌謡ポップスチャンネル
 https://nl.utako.moe/kayopops/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/cW3BuH8.png",歌謡ポップスチャンネル [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/cW3BuH8.png",歌謡ポップスチャンネル [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="mtv" tvg-logo="https://i.imgur.com/k5SjvRZ.png",MTV
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="mtv" tvg-logo="https://i.imgur.com/k5SjvRZ.png",MTV
 https://nl.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="mtv" tvg-logo="https://i.imgur.com/k5SjvRZ.png",MTV [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="mtv" tvg-logo="https://i.imgur.com/k5SjvRZ.png",MTV [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network
 https://nl.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station
 https://nl.utako.moe/kids_station/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="disneyjr" tvg-logo="https://i.imgur.com/JqJ04rw.png",Disney Junior [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneyjr" tvg-logo="https://i.imgur.com/JqJ04rw.png",Disney Junior [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/GbHFx5O.jpg",AT-X
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GbHFx5O.jpg",AT-X
 https://nl.utako.moe/AT-X/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/HKzAE4U.png",アクションチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/HKzAE4U.png",アクションチャンネル
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="homedrama" tvg-logo="https://i.imgur.com/oAahRiY.png",ホームドラマチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="homedrama" tvg-logo="https://i.imgur.com/oAahRiY.png",ホームドラマチャンネル
 https://nl.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="homedrama" tvg-logo="https://i.imgur.com/oAahRiY.png",ホームドラマチャンネル [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="homedrama" tvg-logo="https://i.imgur.com/oAahRiY.png",ホームドラマチャンネル [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/jLiNiH6.png",LaLaTV [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jLiNiH6.png",LaLaTV [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/lNY4pHz.png",スーパー!ドラマTV
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/lNY4pHz.png",スーパー!ドラマTV
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河
 https://nl.utako.moe/gingach/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河 [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河 [P]
 https://proxyvn.utako.moe/ph.php?&isp=2&id=cs29
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="toeich" tvg-logo="https://i.imgur.com/l9ogNCL.jpg",東映チャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="toeich" tvg-logo="https://i.imgur.com/l9ogNCL.jpg",東映チャンネル
 https://nl.utako.moe/toei/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="toeich" tvg-logo="https://i.imgur.com/l9ogNCL.jpg",東映チャンネル [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="toeich" tvg-logo="https://i.imgur.com/l9ogNCL.jpg",東映チャンネル [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="familygeki" tvg-logo="https://i.imgur.com/NwWMeDe.png",ファミリー劇場
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/NwWMeDe.png",ファミリー劇場
 https://nl.utako.moe/familygeki/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="familygeki" tvg-logo="https://i.imgur.com/NwWMeDe.png",ファミリー劇場 [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/NwWMeDe.png",ファミリー劇場 [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="eigeki" tvg-logo="https://i.imgur.com/GfgT9ZJ.png",衛星劇場 (Eisei Gekijo) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="eigeki" tvg-logo="https://i.imgur.com/GfgT9ZJ.png",衛星劇場 (Eisei Gekijo) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="neco" tvg-logo="https://i.imgur.com/rSw1VRn.png",映画・チャンネルNECO
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="neco" tvg-logo="https://i.imgur.com/rSw1VRn.png",映画・チャンネルNECO
 https://nl.utako.moe/neco/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="thecinema" tvg-logo="https://i.imgur.com/yAyyAi7.png",ザ・シネマ (The Cinema)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="thecinema" tvg-logo="https://i.imgur.com/yAyyAi7.png",ザ・シネマ (The Cinema)
 https://nl.utako.moe/the_cinema/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="movieplus" tvg-logo="https://i.imgur.com/4fPQrVw.png",ムービープラス (Movie Plus) [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="movieplus" tvg-logo="https://i.imgur.com/4fPQrVw.png",ムービープラス (Movie Plus) [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="familygeki" tvg-logo="https://i.imgur.com/PK6wc9g.png",時代劇専門チャンネル [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/PK6wc9g.png",時代劇専門チャンネル [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="v_paradise" tvg-logo="https://i.imgur.com/1jbDsxl.png",V Paradise
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="v_paradise" tvg-logo="https://i.imgur.com/1jbDsxl.png",V Paradise
 https://nl.utako.moe/v_paradise/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="fox" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fox" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife
 https://nl.utako.moe/dlife/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/hkdoiaW.png",日テレジータス
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/hkdoiaW.png",日テレジータス
 https://nl.utako.moe/ntvgplus/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/IayTCS3.png",FIGHTING TV サムライ
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/IayTCS3.png",FIGHTING TV サムライ
 https://nl.utako.moe/fighting_tv/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/GlPDTnn.png",エンタメ～テレ
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GlPDTnn.png",エンタメ～テレ
 https://nl.utako.moe/entermei_tele/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/0C5G1lV.png",MONDO TV
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/0C5G1lV.png",MONDO TV
 https://nl.utako.moe/mondo/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/0C5G1lV.png",MONDO TV [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/0C5G1lV.png",MONDO TV [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-logo="https://i.imgur.com/iZ17rjw.png",Pigoo
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/iZ17rjw.png",Pigoo
 https://nl.utako.moe/pigoo/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/RsdItoE.png",MUSIC JAPAN [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/RsdItoE.png",MUSIC JAPAN [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/rKwzSDu.png",Music ON TV!
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/rKwzSDu.png",Music ON TV!
 https://nl.utako.moe/musicon/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/yGwjs7A.png",囲碁・将棋チャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/yGwjs7A.png",囲碁・将棋チャンネル
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/Q7G6yso.png",TAKARAZUKA SKY STAGE [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Q7G6yso.png",TAKARAZUKA SKY STAGE [P]
 https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル
 https://nl.utako.moe/tabi/index.m3u8
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/saOtFDE.png",Discovery [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/saOtFDE.png",Discovery [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/vRsZ1cu.png",HISTORY [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/vRsZ1cu.png",HISTORY [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/AlybDUC.jpg",National Geographic [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/AlybDUC.jpg",National Geographic [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/XesOF9w.png",Animal Planet [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/XesOF9w.png",Animal Planet [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/qTKSPiL.png",G GOLF NETWORK [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/qTKSPiL.png",G GOLF NETWORK [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Nittele G+ [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Nittele G+ [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/VefBXAR.png",TBS NEWS [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/VefBXAR.png",TBS NEWS [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/ZpG1nvT.png",BBC [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ZpG1nvT.png",BBC [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
-#EXTINF:-1 group-title="JAPAN_CS" tvg-id="" tvg-logo="https://i.imgur.com/1AXz840.png",CNNj [P]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/1AXz840.png",CNNj [P]
 ttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 
 
 #JAPAN ETC
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/KDoMWay.png",QVC Japan
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/KDoMWay.png",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png",SHOP CHANNEL
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png",SHOP CHANNEL
 https://stream3.shopch.jp/HLS/master.m3u8
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/HCrWTCz.png",群馬テレビ Gunma TV
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/HCrWTCz.png",群馬テレビ Gunma TV
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/4Chl9aE.png",日テレNEWS24
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/4Chl9aE.png",日テレNEWS24
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/vcGsZVD.png",HBC北海道放送NEWS
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/vcGsZVD.png",HBC北海道放送NEWS
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/8Igk2QH.png",ウェザーニューズ
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/8Igk2QH.png",ウェザーニューズ
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png",Rakuten 手塚プロダクションTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png",Rakuten キッズ English
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",Rakuten ワンニャンチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
