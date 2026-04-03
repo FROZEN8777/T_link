@@ -434,7 +434,6 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/156_newk-pop.png",New KPOP [RakutenTV]
 https://ssai.its-newid.net/api/v1/hls/streams/sessions/8aea9b6b394f4bc98a47866b244de23f/media/index.m3u8/0.m3u8
 
-https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165&apikey=dc76a93e-178d-5156-d492-c01a0429525f&auth=3ba56277-fd5f03a0-8b874b17-894d93c7&ads.device_make=rchweb&ads.url=channel.rakuten.co.jp&ads.uuid=ffd5a659-c655-554f-95d7-6cb976494aea&ads.uid_rch=ffd5a659-c655-554f-95d7-6cb976494aea&ads.refid=0&ads.rch_hid=&ads.rch_rp=f4bfb854903035bd00c9a988de2af7340b7113cc
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",映画 [RakutenTV]
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
