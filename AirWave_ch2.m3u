@@ -428,28 +428,28 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #JAPAN RakutenTV
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png"[R] ウェザーニュースLiVE
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png",[R] ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png"[R] 映画
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",[R] 映画
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png"[R] おとなの歓楽街 by MEN’S NECO
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png",[R] おとなの歓楽街 by MEN’S NECO
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png"[R] セクシーエンタメチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png",[R] セクシーエンタメチャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/232_enka.png"[R] 演歌・歌謡
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/232_enka.png",[R] 演歌・歌謡
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-enka-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png"[R] エンタメ～テレDEEP
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png",[R] エンタメ～テレDEEP
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/207_pachislo.png"[R] パチンコ・パチスロ
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/207_pachislo.png",[R] パチンコ・パチスロ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/206_mahjong.png"[R] 麻雀
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/206_mahjong.png",[R] 麻雀
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/205_shogi.png",[R] 将棋
@@ -458,10 +458,10 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shogicmaf-rakuten
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/204_igoshogi.png",[R] 囲碁・将棋ライト
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png"[R] 手塚プロダクションTV
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png",[R] 手塚プロダクションTV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png"[R] 刺激ストロングSPORTS
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png",[R] 刺激ストロングSPORTS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_ntvprowrestling.png",[R] 日テレプロレスアーカイ部（スポーツ）
@@ -470,43 +470,43 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestl
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/123_albatvgolf.png",[R] ゴルフネットTV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews.png"[R] オリコンニュース
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews.png",[R] オリコンニュース
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png"[R] 共同通信News
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png",[R] 共同通信News
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png"[R] 鉄道・旅
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png",[R] 鉄道・旅
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/181_lt-ci.png"[R] Lifetime／C+I
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/181_lt-ci.png",[R] Lifetime／C+I
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-cplusicmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png"[R] ムビドラTV
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png",[R] ムビドラTV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/180_history.png",[R] HISTORY
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png"[R] しまじろうチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",[R] しまじろうチャンネル
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png",[R] キッズ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png"[R] 刺激ストロング
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png",[R] 刺激ストロング
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png",[R] GAORA ZERO
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png"[R] FUEL TV
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png",[R] FUEL TV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png",[R] 日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png"[R] アイドル・グラビア
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png",[R] アイドル・グラビア
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
 
 
@@ -514,124 +514,124 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 #JAPAN AbemaTV
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128"[A] 競輪・オートレースチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128",[A] 競輪・オートレースチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png?height=48&quality=30&version=20200413&width=128\"[A] アニメ ポケットモンスターチャンネル1
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png?height=48&quality=30&version=20200413&width=128\",[A] アニメ ポケットモンスターチャンネル1
 https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-1/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png?height=48&quality=30&version=20200413&width=128"[A] アニメ ポケットモンスターチャンネル2
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png?height=48&quality=30&version=20200413&width=128",[A] アニメ ポケットモンスターチャンネル2
 https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png"[A] NEWSチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png",[A] NEWSチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] SPECIALチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] SPECIALチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/abema-special/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] SPECIAL 2チャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] SPECIAL 2チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/special-plus/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] アニメチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] アニメチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] アニメチャンネル2
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] アニメチャンネル2
 https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] アニメSPECIALチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] アニメSPECIALチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 異世界・ファンタジーアニメチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 異世界・ファンタジーアニメチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] アニメLIVEチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] アニメLIVEチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] ラブコメアニメチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] ラブコメアニメチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/lovecomedy-anime/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 日常・青春アニメチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 日常・青春アニメチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/dailylife-anime/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 深夜アニメチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 深夜アニメチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/late-night-anime/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] ちびまる子ちゃんチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] ちびまる子ちゃんチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/chibimaruko/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A]  あたしンちチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A]  あたしンちチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/atashinchi/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] ONE PIECEチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] ONE PIECEチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/onepiece/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] ファミリーアニメ
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] ファミリーアニメ
 https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] ファミリーアニメ２
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] ファミリーアニメ２
 https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] なつかしアニメ80's
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] なつかしアニメ80's
 https://ds-linear-abematv.akamaized.net/preview/channel/80s-anime-1/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] なつかしアニメ90's
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] なつかしアニメ90's
 https://ds-linear-abematv.akamaized.net/preview/channel/90s-anime-1/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] なつかしアニメ00's
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] なつかしアニメ00's
 https://ds-linear-abematv.akamaized.net/preview/channel/00s-anime-1/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 韓国ドラマチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 韓国ドラマチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 韓国ドラマチャンネル2
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 韓国ドラマチャンネル2
 https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama-2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 中国ドラマチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 中国ドラマチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/chinese-drama/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 韓国ラブコメディ
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 韓国ラブコメディ
 https://ds-linear-abematv.akamaized.net/preview/channel/asia-love-comedy/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 韓国時代劇
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 韓国時代劇
 https://ds-linear-abematv.akamaized.net/preview/channel/asia-historical/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] K WORLDチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] K WORLDチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/k-world/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] ドラマ映画チャンネル2
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] ドラマ映画チャンネル2
 https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 麻雀チャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 麻雀チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/mahjong/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 将棋チャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 将棋チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/shogi/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] SPORTSチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] SPORTSチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] MOTOR SPORTチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] MOTOR SPORTチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 大相撲チャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 大相撲チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/sumo/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 格闘チャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 格闘チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] HIPHOPチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] HIPHOPチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/hiphop/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] CMチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] CMチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] BOATRACEチャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] BOATRACEチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 異世界・ファンタジーアニメ2チャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 異世界・ファンタジーアニメ2チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo=""[A] 異世界・ファンタジーアニメ3チャンネル
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",[A] 異世界・ファンタジーアニメ3チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8
 
 

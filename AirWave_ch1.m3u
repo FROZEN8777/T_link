@@ -611,18 +611,17 @@ https://jmp2.uk/stvp-KRBD5200003O2
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/AObGkPE.png",jtbc 최강야구
 https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
 
-
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",채널A 도시어부2
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
 
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",TV조선 백반기행
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",코미디TV 맛잇는 녀석들
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 
-
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",Olive 한食대첩3
 https://jmp2.uk/stvp-KR700006WZ
-
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",MBN 나는 자연인이다
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
@@ -637,8 +636,10 @@ https://jmp2.uk/stvp-KRBC3200023BG
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/nkCLYiw.png",M2 입덕 직캠
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/nkCLYiw.png",SCREEN GOLFZON [uk]
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",SCREEN GOLFZON [uk]
 https://jmp2.uk/stvp-KR44000010Y
+
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",CJ ENM MOVIE
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
@@ -646,16 +647,11 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",-채널 확인중-
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_268_DACDF61E.m3u8
-
-
-
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",TV조선 백반기행
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="",Genie Movie
+https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/4X9GOeR.png",인기영화
-https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
+
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",드라마 정주행
 https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
