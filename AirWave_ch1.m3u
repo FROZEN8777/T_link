@@ -414,7 +414,7 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ql1WxcO.png" group-title="LG Channels",【 ▼▼ LG Channels ▼▼ 】
 https://#
 
-#EXTINF:-1 group-title="LG Channels" tvg-logo="",LG Channels SHOW CHAMPION
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/UcZ9lAW.png",New KPOP
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 
 #EXTINF:-1 group-title="LG Channels" tvg-logo="",TV -채널 확인중-
@@ -430,7 +430,7 @@ https://#
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Faxuk8l.png",SBS 모범택시
 https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",SBS 닥터스
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/CaTa21p.png",SBS 닥터스
 https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/8OBnOiG.png",SBS 야인시대 [uk]
@@ -444,7 +444,7 @@ https://d1ye6lj5le5dh0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/1uFF5gf.png",SBS 올인
 https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",SBS 순풍산부인과 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/3LLeaeH.png",SBS 순풍산부인과 [uk]
 https://jmp2.uk/stvp-KRBB4200004RA
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/BK2Raqx.png",SBS 궁금한 이야기 Y [uk]
@@ -452,9 +452,9 @@ https://jmp2.uk/stvp-KRBB4200016TZ
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/BK2Raqx.png",SBS 궁금한 이야기 Y
 https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",SBS 그것이 알고싶다 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/wLoJfRq.png",SBS 그것이 알고싶다 [uk]
 https://jmp2.uk/stvp-KRBB4200017HA
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",SBS 그것이 알고싶다
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/wLoJfRq.png",SBS 그것이 알고싶다
 https://dm72lx2w7znja.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-658a8vltn9ut6-prod/hls-harvester2-1293-prod/us-east-1/cc-658a8vltn9ut6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/h98D8cf.png",SBS 런닝맨 [uk]
@@ -479,7 +479,7 @@ https://jmp2.uk/stvp-KRBB4200018FT
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/bMgz2li.png",SBS 생활의 달인
 https://dgjj0tcconmvk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejefxdqh8872z-prod/hls-harvester2-1293-prod/us-east-1/cc-ejefxdqh8872z/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Mc5a7qb.png",SBS 순간포착 세상에 이런일이 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/XisYr4M.png",SBS 순간포착 세상에 이런일이 [uk]
 https://jmp2.uk/stvp-KRBB4200013L5
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Mc5a7qb.png",SBS 미운우리새끼 [uk]
@@ -488,26 +488,26 @@ https://jmp2.uk/stvp-KRBB4200003ZL
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Mc5a7qb.png",SBS 미운우리새끼
 https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49nq9623vilm8-prod/hls-harvester2-1293-prod/us-east-1/cc-49nq9623vilm8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",SBS 신발벗고 돌싱포맨 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/1kEx1JB.png",SBS 신발벗고 돌싱포맨 [uk]
 https://jmp2.uk/stvp-KRBB4200008PR
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",SBS 신발벗고 돌싱포맨
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/1kEx1JB.png",SBS 신발벗고 돌싱포맨
 https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",SBS 백종원의 골목식당 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/jQ0zIKy.png",SBS 백종원의 골목식당 [uk]
 https://jmp2.uk/stvp-KRBB4200011RB
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",SBS 정글의 법칙 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/n8HwMOh.png",SBS 정글의 법칙 [uk]
 https://jmp2.uk/stvp-KRBB4200012PV
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",SBS 불타는 청춘 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/mnSddHB.png",SBS 불타는 청춘 [uk]
 https://jmp2.uk/stvp-KRBB42000100V
 
 
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",KBS 1박2일 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/irUjuCB.png",KBS 1박2일 [uk]
 https://jmp2.uk/stvp-KRBC4400003SD
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",KBS 개는 훌륭하다 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/HXLYP8G.png",KBS 개는 훌륭하다 [uk]
 https://jmp2.uk/stvp-KR700003L9
 
 
@@ -540,7 +540,7 @@ https://jmp2.uk/stvp-KRBB50000711L
 https://jmp2.uk/stvp-KRBB50000721W
 
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/zJklWds.png",tvN 환혼 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",tvN 환혼 [uk]
 https://jmp2.uk/stvp-KRBC4500001A5
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",tvN 대탈출 시리즈 [uk]
@@ -560,9 +560,9 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",tvN LIVE WIRE [uk]
 https://jmp2.uk/stvp-KRBC3200028P2
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",tvN 벌거벗은 세계사 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Q6zP00w.png",tvN 벌거벗은 세계사 [uk]
 https://jmp2.uk/stvp-KRBC3200021ZA
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",tvN 벌거벗은 세계사
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Q6zP00w.png",tvN 벌거벗은 세계사
 https://6c3a25b5ffc14307b39a6a959806e536.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f49y0pr4caw7w-ssai-prd/724240eb-5902-4cc4-8f8c-95ebec24739f/0.m3u8
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",tvN 응답하라 시리즈 [uk]
@@ -611,7 +611,7 @@ https://jmp2.uk/stvp-KRBD5200003O2
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/AObGkPE.png",jtbc 최강야구
 https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",채널A 도시어부2
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",채널A 도시어부
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",TV조선 백반기행
@@ -626,8 +626,11 @@ https://jmp2.uk/stvp-KR700006WZ
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",MBN 나는 자연인이다
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
 
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/23LaqxK.png",EBS 극한직업
+https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xsznusvgu7e2n/cac8d5cb-bd9d-46d0-ad92-a90e16f8380f/0.m3u8
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",할명수
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Age3vGh.png",할명수
 https://jmp2.uk/stvp-KR480000234
 
 
@@ -637,20 +640,18 @@ https://jmp2.uk/stvp-KRBC3200023BG
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
 
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",SCREEN GOLFZON [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/TyDSY2q.png",SCREEN GOLFZON [uk]
 https://jmp2.uk/stvp-KR44000010Y
 
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/4X9GOeR.png",인기영화
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",CJ ENM MOVIE
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",영화
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
-
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",Genie Movie
 https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
-
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/4X9GOeR.png",인기영화
 
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",드라마 정주행
@@ -658,24 +659,21 @@ https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",베베핀 2
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/RnFmvRH.png",베베핀
 https://51b80d278dd84f5da8da8832f26a6e47.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qdes3yq6z566m/67bdceb4-7cbc-46d5-8d3c-dfa3fc93b48a/0.m3u8
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",뽀요티비
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/DjtuK8F.png",뽀요TV
 https://c9f573a52b2044e9aeb263646dcdaaf5.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i91aqem27nh0w/8e4860ce-531e-497c-b50e-79517e000efe/1.m3u8
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",코코비티비
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/ay6zcpr.png",코코비TV
 https://3226c0360554432fb870bb14c7a633ed.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bzo6omdamy3gm/f3b5800d-1000-426a-8136-44831115b35c/0.m3u8
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",로보카폴리
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/PvkE2rf.png",로보카폴리
 https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hk7cvudmr98ff/713bcecf-006e-4d35-a320-ba780451775f/0.m3u8
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",반지의 비밀
-https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xsznusvgu7e2n/cac8d5cb-bd9d-46d0-ad92-a90e16f8380f/0.m3u8
-
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",Animax 요리왕 비룡 더 마스터
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/OIXtwwW.png",요리왕 비룡 더 마스터
 https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/0e3566f7-526d-42f6-8150-048dba7e830b/0.m3u8
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",Animax 요리왕 비룡 더 마스터
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/OIXtwwW.png",요리왕 비룡 더 마스터
 https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/b0cc7455-6b41-4281-9111-2c54b8aeb45d/0.m3u8
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",바오 패밀리
@@ -687,15 +685,15 @@ https://d3r9wj3bpbhm82.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/niEGFms.png",포켓몬스터
 
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",Kids time [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Nvlmm6r.png",키즈 타임 [uk]
 https://jmp2.uk/stvp-KR700007M0
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",투니버스 명탐정 코난 (자막) [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/CoqRFAO.png",명탐정 코난 (자막) [uk]
 https://jmp2.uk/stvp-KRBC32000200B
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",투니버스 짱구는 못말려 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/ODRkQuB.png",짱구는 못말려 [uk]
 https://jmp2.uk/stvp-KR10000017U
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",투니버스 짱구는 못말려
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/ODRkQuB.png",짱구는 못말려
 https://cc-919i1gtrejym7.akamaized.net/00cfba45_9ef7_4a85_abcd_e5837ab46bb6/hls/playlist.m3u8
 
 
