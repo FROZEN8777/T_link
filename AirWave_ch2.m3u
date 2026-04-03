@@ -245,7 +245,7 @@ https://nl.utako.moe/disneychan/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS [P]
-https://proxyvn.utako.moe/ph.php?&isp=2&id=bs31
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A)
@@ -329,7 +329,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河
 https://nl.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河 [P]
-https://proxyvn.utako.moe/ph.php?&isp=2&id=cs29
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="toeich" tvg-logo="https://i.imgur.com/l9ogNCL.jpg",東映チャンネル
 https://nl.utako.moe/toei/index.m3u8
@@ -388,7 +388,7 @@ https://nl.utako.moe/musicon/index.m3u8
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/yGwjs7A.png",囲碁・将棋チャンネル
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Q7G6yso.png",TAKARAZUKA SKY STAGE [P]
-https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル
 https://nl.utako.moe/tabi/index.m3u8
@@ -544,6 +544,12 @@ https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",異世界・ファンタジーアニメチャンネル [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8
 
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",異世界・ファンタジーアニメ2チャンネル [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-2/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",異世界・ファンタジーアニメ3チャンネル [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8
+
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",アニメLIVEチャンネル [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8
 
@@ -627,12 +633,6 @@ https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",BOATRACEチャンネル [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",異世界・ファンタジーアニメ2チャンネル [AbemaTV]
-https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-2/playlist.m3u8
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",異世界・ファンタジーアニメ3チャンネル [AbemaTV]
-https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8
 
 
 
