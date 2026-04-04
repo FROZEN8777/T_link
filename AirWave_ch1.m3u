@@ -696,5 +696,11 @@ https://cc-919i1gtrejym7.akamaized.net/00cfba45_9ef7_4a85_abcd_e5837ab46bb6/hls/
 
 
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ViGcbvW.png",Persiana IPTV_KOR
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ViGcbvW.png",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
+
+
+
+#N.KOREA
+#EXTINF:0 group-title="N.KOREA" tvg-logo="https://i.imgur.com/IV6qQfq.png",조선중앙텔레비죤
+https://tv.intchoson.com/kctv/main_stream.m3u8
