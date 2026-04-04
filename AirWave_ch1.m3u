@@ -414,14 +414,27 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ql1WxcO.png" group-title="LG Channels",【 ▼▼ LG Channels ▼▼ 】
 https://#
 
-#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/UcZ9lAW.png",New KPOP
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/UcZ9lAW.png",New KPOP [LG Channels]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=878
 
-#EXTINF:-1 group-title="LG Channels" tvg-logo="",TV -채널 확인중-
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/p1W4V4T.png",YG TV [LG Channels]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
+ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=872
+
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/U8VeVyG.png",New KMOVIES [LG Channels]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 
-#EXTINF:-1 group-title="LG Channels" tvg-logo="",TV1 -채널 확인중-
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/U8VeVyG.png",New KMOVIES 2 [LG Channels]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/PK6J36c.png",FoodieBoy [LG Channels]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=880
+ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=882
+
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/noxlgds.png",mubeat [LG Channels]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=884
+ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=887
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ql1WxcO.png" group-title="SAMSUNG TV Plus",【 ▼▼ SAMSUNG TV Plus ▼▼ 】
@@ -652,10 +665,11 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
 https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
 
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",드라마 정주행
-https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",K-Drama
+https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
 
-
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="",K-Food
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/RnFmvRH.png",베베핀
 https://51b80d278dd84f5da8da8832f26a6e47.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qdes3yq6z566m/67bdceb4-7cbc-46d5-8d3c-dfa3fc93b48a/0.m3u8
