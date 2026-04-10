@@ -681,6 +681,9 @@ https://ds-linear-abematv.akamaized.net/preview/channel/sumo/playlist.m3u8
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/P4T19ik.png",HIPHOP [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/hiphop/playlist.m3u8
 
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/kLuYzsV.png",競輪・オートレース
+https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
+
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/m7M0fTx.png",CMチャンネル [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
 
