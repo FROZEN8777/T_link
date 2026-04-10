@@ -1,6 +1,6 @@
 #EXTM3U
 #AirWaveTV_ch2 2026/03/29 Release
-#Update date 2026/04/05
+#Update date 2026/04/11
 
 #JAPAN
 
@@ -540,151 +540,148 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakute
 
 #JAPAN AbemaTV
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png",ABEMA NEWS [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/wOeD4Pu.png",ABEMA NEWS [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/news-plus/logo.png?height=48&quality=30&version=20200413&width=128",ABEMA NEWS 会見 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/UXOGJrs.png",ABEMA NEWS 会見 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/news-plus/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/30h-1/logo.png?height=48&quality=30&version=20200413&width=128",30時間限界突破フェス [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/zAZp754.png",30時間限界突破フェス [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/30h-1/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png?height=48&quality=30&version=20200413&width=128",ABEMA SPECIAL [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/sFzAkr6.png",ABEMA SPECIAL [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/abema-special/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png?height=48&quality=30&version=20200413&width=128",ABEMA SPECIAL 2 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/XSE4MuV.png",ABEMA SPECIAL 2 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/special-plus/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png?height=48&quality=30&version=20200413&width=128",ABEMA アニメ [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/KhIC6bo.png",ABEMA アニメ [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png?height=48&quality=30&version=20200413&width=128",ABEMA アニメ2 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/6x4lUzI.png",ABEMA アニメ2 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/re-zero/logo.png?height=48&quality=30&version=20200413&width=128",Re-ゼロ [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/8rK3Fg1.png",Re-ゼロ [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/re-zero/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png?height=48&quality=30&version=20200413&width=128",アニメSPECIAL [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/g2SAFa4.png",アニメSPECIAL [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png?height=48&quality=30&version=20200413&width=128",アニメSPECIAL2 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/gbdWMMb.png",アニメSPECIAL2 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/anime-special-2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png?height=48&quality=30&version=20200413&width=128",異世界・ファンタジーアニメ [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/iA7pdpB.png",異世界・ファンタジーアニメ [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-2/logo.png?height=48&quality=30&version=20200413&width=128",異世界・ファンタジーアニメ2 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/BbsnOSS.png",異世界・ファンタジーアニメ2 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-3/logo.png?height=48&quality=30&version=20200413&width=128",異世界・ファンタジーアニメ3 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/AxWN7K8.png",異世界・ファンタジーアニメ3 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/lovecomedy-anime/logo.png?height=48&quality=30&version=20200413&width=128",ラブコメアニメ [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/fQlPCxs.png",ラブコメアニメ [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/lovecomedy-anime/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/dailylife-anime/logo.png?height=48&quality=30&version=20200413&width=128",日常・青春アニメ [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/zlf58Ci.png",日常・青春アニメ [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/dailylife-anime/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/late-night-anime/logo.png?height=48&quality=30&version=20200413&width=128",深夜アニメ [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/OosZ4i4.png",深夜アニメ [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/late-night-anime/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png?height=48&quality=30&version=20200413&width=128",アニメLIVE [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/BN5knDe.png",アニメLIVE [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png?height=48&quality=30&version=20200413&width=128",アニメLIVE2 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/vYP2UBz.png",アニメLIVE2 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/anime-live2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/chibimaruko/logo.png?height=48&quality=30&version=20200413&width=128",ちびまる子ちゃん [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/NW1iKAD.png",ちびまる子ちゃん [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/chibimaruko/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png?height=48&quality=30&version=20200413&width=128", あたしンち [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/9lbYEj8.png", あたしンち [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/atashinchi/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png?height=48&quality=30&version=20200413&width=128\",アニメ ポケットモンスター1 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/lAIYypw.png",アニメ ポケットモンスター1 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-1/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png?height=48&quality=30&version=20200413&width=128",アニメ ポケットモンスター2 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/rMQWKLX.png",アニメ ポケットモンスター2 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/conan/logo.png?height=48&quality=30&version=20200413&width=128",名探偵コナン [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/Rh4dHqq.png",名探偵コナン [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/conan/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/onepiece/logo.png?height=48&quality=30&version=20200413&width=128",ONE PIECE [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/GP2iP2U.png",ONE PIECE [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/onepiece/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png?height=48&quality=30&version=20200413&width=128",ファミリーアニメ [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/JUdoIFS.png",ファミリーアニメ [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-2/logo.png?height=48&quality=30&version=20200413&width=128",ファミリーアニメ２ [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/9Y8SqQt.png",ファミリーアニメ２ [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png?height=48&quality=30&version=20200413&width=128",なつかしアニメ80's [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/V2Scpkj.png",なつかしアニメ80's [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/80s-anime-1/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/90s-anime-1/logo.png?height=48&quality=30&version=20200413&width=128",なつかしアニメ90's [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/r84ki4I.png",なつかしアニメ90's [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/90s-anime-1/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/00s-anime-1/logo.png?height=48&quality=30&version=20200413&width=128",なつかしアニメ00's [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/VJz6nhI.png",なつかしアニメ00's [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/00s-anime-1/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png?height=48&quality=30&version=20200413&width=128",K WORLD [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/uzRT4go.png",K WORLD [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/k-world/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png?height=48&quality=30&version=20200413&width=128",韓国ドラマ [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/xxHRapl.png",韓国ドラマ [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png?height=48&quality=30&version=20200413&width=128",韓国ドラマチャンネル2 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/mAyecCk.png",韓国ドラマ2 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama-2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-love-comedy/logo.png?height=48&quality=30&version=20200413&width=128",韓国ラブコメディ [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/HI9ygBT.png",韓国ラブコメディ [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/asia-love-comedy/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-loveromance/logo.png?height=48&quality=30&version=20200413&width=128",韓国ラブロマンス [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/22qAnDd.png",韓国ラブロマンス [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/asia-loveromance/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-historical/logo.png?height=48&quality=30&version=20200413&width=128",韓国時代劇 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/3CaTRHO.png",韓国時代劇 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/asia-historical/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/chinese-drama/logo.png?height=48&quality=30&version=20200413&width=128",中国ドラマ [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/xj3THlf.png",中国ドラマ [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/chinese-drama/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png?height=48&quality=30&version=20200413&width=128",ドラマ映画CHANNEL [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/PV8O6DV.png",ドラマ映画CHANNEL [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/drama/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png?height=48&quality=30&version=20200413&width=128",ドラマ映画CHANNEL2 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/Jvj1ARD.png",ドラマ映画CHANNEL2 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-3/logo.png?height=48&quality=30&version=20200413&width=128",ドラマ映画CHANNEL3 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/JrnNBWP.png",ドラマ映画CHANNEL3 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/drama-3/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png?height=48&quality=30&version=20200413&width=128",麻雀 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/p5NEDU1.png",麻雀 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/mahjong/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png?height=48&quality=30&version=20200413&width=128",将棋 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/JNJkJrY.png",将棋 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/shogi/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png?height=48&quality=30&version=20200413&width=128",SPORTS [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/M3nxdex.png",SPORTS [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png?height=48&quality=30&version=20200413&width=128",MOTOR SPORT [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/AkCArQW.png",MOTOR SPORT [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/boatrace/logo.png?height=48&quality=30&version=20200413&width=128",BOATRACE [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/varinAt.png",BOATRACE [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png?height=48&quality=30&version=20200413&width=128",格闘 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/E2ngK23.png",格闘 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png?height=48&quality=30&version=20200413&width=128",大相撲 [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/NTRCF3g.png",大相撲 [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/sumo/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png?height=48&quality=30&version=20200413&width=128",HIPHOP [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/P4T19ik.png",HIPHOP [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/hiphop/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128",HIPHOP [AbemaTV]
-https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png?height=48&quality=30&version=20200413&width=128",CMチャンネル [AbemaTV]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/m7M0fTx.png",CMチャンネル [AbemaTV]
 https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",Abema Test
