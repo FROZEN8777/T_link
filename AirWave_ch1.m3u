@@ -1,6 +1,6 @@
 #EXTM3U
 #AirWaveTV_ch1 2026/03/29 Release
-#Update date 2026/04/11
+#Update date 2026/04/25
 
 #KOREA
 
@@ -411,16 +411,16 @@ https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ql1WxcO.png" group-title="LG Channels",【 ▼▼ LG Channels ▼▼ 】
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CeQ2Iy.png" group-title="LG Channels",【 ▼▼ LG Channels ▼▼ 】
 https://#
 
 #EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/UcZ9lAW.png",New KPOP [LG Channels]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
-ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=878
+#ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=878
 
 #EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/p1W4V4T.png",YG TV [LG Channels]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=872
+#ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 
 #EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/U8VeVyG.png",New KMOVIES [LG Channels]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
@@ -430,11 +430,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 #EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/PK6J36c.png",FoodieBoy [LG Channels]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=880
-ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=882
+#ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=882
 
 #EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/noxlgds.png",mubeat [LG Channels]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=884
-ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=887
+#ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=887
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ql1WxcO.png" group-title="SAMSUNG TV Plus",【 ▼▼ SAMSUNG TV Plus ▼▼ 】
@@ -580,7 +580,7 @@ https://jmp2.uk/stvp-KRBC3200013UR
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/mSkYLzI.png",tvN 보검매직컬 [uk]
 https://jmp2.uk/stvp-KRBC3200029C4
 
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/5vBgPl8.png",tvN 콩콩팥팥 [uk]
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/5vBgPl8.png",tvN 콩콩팥팥 / 콩콩밥밥 [uk]
 https://jmp2.uk/stvp-KRBC8000144F
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/eakqKBZ.png",tvN 삼시세끼 고창편 [uk]
@@ -646,8 +646,6 @@ https://jmp2.uk/stvp-KR480000234
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/nkCLYiw.png",M2 [uk]
 https://jmp2.uk/stvp-KRBC3200023BG
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/nkCLYiw.png",M2
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
 
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/TyDSY2q.png",SCREEN GOLFZON [uk]
@@ -701,8 +699,6 @@ https://jmp2.uk/stvp-KRBC32000200B
 
 #EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/ODRkQuB.png",짱구는 못말려 [uk]
 https://jmp2.uk/stvp-KR10000017U
-#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/ODRkQuB.png",짱구는 못말려
-https://cc-919i1gtrejym7.akamaized.net/00cfba45_9ef7_4a85_abcd_e5837ab46bb6/hls/playlist.m3u8
 
 
 
