@@ -1,0 +1,1555 @@
+#EXTM3U
+#AirWaveTV_ch_all 2026/05/24 Release
+#Update date 2026/05/24
+
+#KOREA
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 2026/05/24　】
+https://#
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Lw0ZPwv.png",SBS [d]
+http://koreatv.dothome.co.kr/sbs.php
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Lw0ZPwv.png",SBS [g]
+http://43.137.43.57/get_channel.php?channel=sbs
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/0kvGUxY.png",G1 SBS (강원)
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/qnsuCHt.png",KBC광주 (SBS)
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/GQ7wXlu.png",TJB대전 (SBS)
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/bGXYbt8.png",TBC대구 (SBS)
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/6YUj9Ii.png",CJB청주 (SBS)
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/6YUj9Ii.png",CJB청주 (SBS)
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/pqy8wF9.png",JTV전주 (SBS)
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/xDvzxmM.png",ubc울산 (SBS)
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/AAkul0A.png",KNN부산 (SBS)
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/a8dOD1r.png",JIBS제주 (SBS)
+http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/VY6uEE9.png",SBS News
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/nLeExpR.png",KBS1 [d]
+http://koreatv.dothome.co.kr/kbs1.php
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/nLeExpR.png",KBS1 [g]
+http://43.137.43.57/get_channel.php?channel=kbs1
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/s4c80E2.png",KBS1 광주 [d]
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/alolW6I.png",KBS1 대전 [d]
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/xniPsFU.png",KBS1 대구경북 [d]
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/X04X1s9.png",KBS1 울산 [d]
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/yW7TP2a.png",KBS1 부산 [d]
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/bGUcFhx.png",KBS1 춘천 [d]
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/8GpvKEj.png",KBS2 [d]
+http://koreatv.dothome.co.kr/kbs2.php
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/8GpvKEj.png",KBS2 [g]
+http://43.137.43.57/get_channel.php?channel=kbs2
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/FspY016.png",MBC [d]
+http://koreatv.dothome.co.kr/mbc.php
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/FspY016.png",MBC [g]
+http://43.137.43.57/get_channel.php?channel=mbc
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/pzfyH9f.png",MBC 경남
+https://wowza.mbcgn.kr/MBCTV/TV1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/0sBh5j7.png",MBC 강원영동
+http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/4e2nymF.png",MBC 안동
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/bjBLWsR.png",MBC 목포
+https://vod.mpmbc.co.kr/a_live/25246741/ch001/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/bjBLWsR.png",MBC 목포
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Nfv6aBp.png",MBC 춘천
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/pt7IUf5.png",MBC 충북
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/KN03GCW.png",MBC 대전
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/6aRB5Fe.png",MBC 대구
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/B6T0Yg3.png",MBC 전주
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/I75ze6B.png",MBC 울산
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ZqeEth1.png",MBC 여수
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/4j58rxj.png",MBC 부산
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/OctaSlD.png",MBC 제주
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/rA8XVuE.png",MBC AMERICA
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/tizfoTc.png",EBS1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Tg7eTLj.png",EBS2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Tg7eTLj.png",EBS2 [저화질]
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/xEzOi9u.png",EBS e
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/QmOwdwS.png",EBS i
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/QmOwdwS.png",EBS i [저화질]
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+ 
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/MI3pxa6.png",EBS+2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Tg7eTLj.png",EBS+2 [저화질]
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/f1Mmell.png",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/f1Mmell.png",EBS Kids [저화질]
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/SiY29CG.png",jtbc [g]
+http://43.137.43.57/get_channel.php?channel=jtbc
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/dthLeCs.png",jtbc SPORTS
+http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/oNwwoSw.png",TV조선
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/oNwwoSw.png",TV조선 [g]
+http://43.137.43.57/get_channel.php?channel=tvchosun
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/UfeDvvF.png",TV조선2
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/RB8V8NK.png",채널A [g]
+http://43.137.43.57/get_channel.php?channel=channela
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/zJklWds.png",tvN [g]
+http://43.137.43.57/get_channel.php?channel=tvn
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/fFeXmBq.png",OCN
+http://43.137.43.57/get_channel.php?channel=ocn
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/RE0trJR.png",OCN Movies
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/V9h5JCF.png",OCN Movies2
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=super_action_540&sid=Aq9QkNY4Pe5i5qqbZ80wYIPOMlJlncdshNl59Ykd&secret=ace12c806a4f2f6a255b1c93813fe49f&time=1765892291
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/xHg6EHF.png",KBS 24
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/olS7njk.png",KBS Drama [d]
+http://koreatv.dothome.co.kr/kbsdrama.php
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/iiJzqLy.png",KBS Joy [d]
+http://koreatv.dothome.co.kr/kbsjoy.php
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ftr5yF1.png",KBS Story [d]
+http://koreatv.dothome.co.kr/kbsstory.php
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/V1pnVVt.png",KBS Life [d]
+http://koreatv.dothome.co.kr/kbslife.php
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/S54mqVc.png",KBS Kids [d]
+http://koreatv.dothome.co.kr/kbskids.php
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/JoMh9eB.png",KBS N SPORTS
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=lkQCgUJXxH2vNQDwjbA9vvJLDmUl95x5WGNDg4kC&secret=0742366f04974647047748e2f2c60f53&time=1765891722
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/tJjeDbM.png",KBS World [d]
+http://koreatv.dothome.co.kr/kbsworld.php
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/jy3FJvV.png",KBS LIVE Dokdo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/OwVDgWw.png",SBS Plus [d]
+http://webtv.dothome.co.kr/sbsplus.php
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/lMh35zl.png",SBS funE [d]
+http://koreatv.dothome.co.kr/sbsfune.php
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/YHY6JwQ.png",SBS Biz [d]
+http://koreatv.dothome.co.kr/sbsbiz.php
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/guNsNMv.png",SBS Sports
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=sbs_sports_540&sid=ILsETd2qxAIReYV767tJgxtvn5VKOcdUt3X1Bzp7&secret=61a855e91a66a97bcbdb9812f8b10b7c&time=1765891394
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/2GXD690.png",ENA
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_joy_540&sid=Yj9bfkjAif5rjWzAwr3lJwf33HioT5cjQu2sOvOY&secret=3c61e4ad06248b88a09d238ff20d7fa4&time=1765890963
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/2GXD690.png",ENA [m]
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs_joy_540&sid=Yj9bfkjAif5rjWzAwr3lJwf33HioT5cjQu2sOvOY&secret=3c61e4ad06248b88a09d238ff20d7fa4&time=1765890963
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/q4kCTKD.png",ENA SPORTS
+
+
+#EXTINF:-1 group-title="KOR" tvg-logo="https://i.imgur.com/6oyrw15.png",SPOTV Prime+
+
+
+#EXTINF:-1 group-title="KOR" tvg-logo="https://i.imgur.com/6oyrw15.png",SPOTV Prime2
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ty1W8HO.png",MBN [d]
+http://koreatv.dothome.co.kr/mbn.php
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ty1W8HO.png",MBN [g]
+http://43.137.43.57/get_channel.php?channel=mbn
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/AfhQv3R.png",YTN [g]
+http://43.137.43.57/get_channel.php?channel=ytn
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/IRvHdLg.png",YTN2
+
+
+#EXTINF:-1 group-title="KOR" tvg-logo="https://i.imgur.com/mmL4m1l.png",연합뉴스TV
+
+
+#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/A43MEyp.png",TBS
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/i0qhPUB.png",ch Btv [t]
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_415_3B0A4DFF.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/i0qhPUB.png",ch Btv
+http://tbroad-233.live.wecandeo.com/live/7/233_high.m3u8
+
+#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/JYrRZtb.png",딜라이브TV [t]
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_510_723FFBD1.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/I5v1EWj.png",OBS [t]
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_55.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/I5v1EWj.png",OBS [d]
+http://livetv.dothome.co.kr/ch/catv/55_89C591CA.php
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/oJGaoNz.png",inet-TV
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ZWcrhU7.png",성남의 정보채널 ABN 아름방송 [t]
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_412.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ZWcrhU7.png",성남의 정보채널 ABN 아름방송
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Z6NXzre.png",CCS 충북방송 [t]
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_416_B1ABF570.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/xUoTxf5.png",JCN 울산중앙방송
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/u8oWItm.png",KCTV 광주방송 CH05
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/o6e1nPw.png",SCS ch8 서경방송
+https://live.iscs.co.kr/m_live/480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/o6e1nPw.png",SCS ch8 서경방송
+https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/nOmnd6X.png",HCN 부산방송
+http://edge4.hcnmobile.tv/etv/phddmcbusan/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/3A0RAPa.png",KCTV 제주방송
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/UaiNTFD.png",kcn 금강방송
+http://62db982017b54.streamlock.net:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/HDSgLYA.png",실버아이TV
+http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Ly5HycN.png",산업방송 채널i
+http://1.201.160.177:1935/live/myStream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Q3Wo0QL.png",국악방송
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/bGOnaAi.png",NHTV 농협방송
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/kN99pp0.png",NBS 한국농업방송
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/cVABrIi.png",WBC 복지TV
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/UgtuzJM.png",한국경제TV
+http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/RbxfH1G.png",매일경제TV
+http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/TAI7U2T.png",서울경제
+https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/DN9Z5cG.png",DealSite 경제TV
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/kD7axEm.png",Job plus TV
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/i4GfaJ5.png",지방자치TV
+https://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/JxREiR7.png",KFN 국방TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/l9QV2jQ.png",KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/l9QV2jQ.png",KTV
+https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/N0IeNxy.png",방송대학TV
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/rKhJVYQ.png",NATV 국회방송
+https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/RCJOZU0.png",아리랑TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/RCJOZU0.png",아리랑TV
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/dfiC1R9.png",CTS
+https://video.cdn.cts.tv/index_1.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/xmTOKjU.png",C채널
+http://112.175.51.214:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/XoVqZdf.png",GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/lZ9X5zR.png",GOOD TV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/uTGMv0W.png",RUTCTV
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/HFdsM50.png",BBS 불교방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/rpkxHf4.png",BTN
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/qnM3XHk.png",CJ ONSTYLE
+https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/chunklist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/FRb9yTL.png",CJ ONSTYLE+
+https://live-ch2.cjmall.net/cjosplus/_definst_/live2/chunklist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/4auGDK2.png",NS홈쇼핑
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/wRjtBw3.png",NS홈쇼핑+
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/UgPsgwt.png",W shopping
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/BXsB7Dc.png",KT알파쇼핑
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Y8jZk9f.png",홈&쇼핑
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/BVPd3hS.png",현대홈쇼핑
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/7oW2xLP.png",현대홈쇼핑 PLUS#
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/H8iDNQZ.png",GS MY SHOP
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/s9BZgM2.png",공영쇼핑
+https://etv.publichs.com/live5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/njf9ubD.png",롯데홈쇼핑
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/yU96tzw.png",롯데 ONE TV
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Cq1twut.png",신세계 쇼핑
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CeQ2Iy.png" group-title="LG Channels",【 ▼▼ LG Channels ▼▼ 】
+https://#
+
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/UcZ9lAW.png",New KPOP [LG Channels]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+#ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=878
+
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/p1W4V4T.png",YG TV [LG Channels]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
+#ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=872
+
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/U8VeVyG.png",New KMOVIES [LG Channels]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/U8VeVyG.png",New KMOVIES 2 [LG Channels]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/PK6J36c.png",FoodieBoy [LG Channels]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=880
+#ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=882
+
+#EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/noxlgds.png",mubeat [LG Channels]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=884
+#ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=887
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ql1WxcO.png" group-title="SAMSUNG TV Plus",【 ▼▼ SAMSUNG TV Plus ▼▼ 】
+https://#
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Faxuk8l.png",SBS 모범택시
+https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/8OBnOiG.png",SBS 야인시대 [uk]
+https://jmp2.uk/stvp-KRBB42000061Z
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/8OBnOiG.png",SBS 야인시대
+https://d2yx6lvhcftzo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dcxhnnfoe8vt-prod/hls-harvester2-1293-prod/us-east-1/cc-3dcxhnnfoe8vt/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/jwAaqEj.png",SBS 내 남자의 여자
+https://d1ye6lj5le5dh0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ert8sa2q2i3fz-prod/hls-harvester2-1293-prod/us-east-1/cc-ert8sa2q2i3fz/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/1uFF5gf.png",SBS 올인
+https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/3LLeaeH.png",SBS 순풍산부인과 [uk]
+https://jmp2.uk/stvp-KRBB4200004RA
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/BK2Raqx.png",SBS 궁금한 이야기 Y [uk]
+https://jmp2.uk/stvp-KRBB4200016TZ
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/BK2Raqx.png",SBS 궁금한 이야기 Y
+https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/wLoJfRq.png",SBS 그것이 알고싶다 [uk]
+https://jmp2.uk/stvp-KRBB4200017HA
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/wLoJfRq.png",SBS 그것이 알고싶다
+https://dm72lx2w7znja.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-658a8vltn9ut6-prod/hls-harvester2-1293-prod/us-east-1/cc-658a8vltn9ut6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/h98D8cf.png",SBS 런닝맨 [uk]
+https://jmp2.uk/stvp-KRBB4200002MM
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/dtwpi6v.png",SBS 패밀리가 떴다 [uk]
+https://jmp2.uk/stvp-KRBB4200014MY
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/dtwpi6v.png",SBS 패밀리가 떴다
+https://d1rio2j9o2hqtj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1nujk65i146oc-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/aWq94Ue.png",SBS 나는 솔로 [uk]
+https://jmp2.uk/stvp-KRBB4200009C3
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/nJNNrsi.png",SBS TV 동물농장 [uk]
+https://jmp2.uk/stvp-KRBB420000769
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/nJNNrsi.png",SBS TV 동물농장
+https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/bMgz2li.png",SBS 생활의 달인 [uk]
+https://jmp2.uk/stvp-KRBB4200018FT
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/bMgz2li.png",SBS 생활의 달인
+https://dgjj0tcconmvk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejefxdqh8872z-prod/hls-harvester2-1293-prod/us-east-1/cc-ejefxdqh8872z/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/XisYr4M.png",SBS 순간포착 세상에 이런일이 [uk]
+https://jmp2.uk/stvp-KRBB4200013L5
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Mc5a7qb.png",SBS 미운우리새끼 [uk]
+https://jmp2.uk/stvp-KRBB4200003ZL
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Mc5a7qb.png",SBS 미운우리새끼
+https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49nq9623vilm8-prod/hls-harvester2-1293-prod/us-east-1/cc-49nq9623vilm8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/1kEx1JB.png",SBS 신발벗고 돌싱포맨 [uk]
+https://jmp2.uk/stvp-KRBB4200008PR
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/1kEx1JB.png",SBS 신발벗고 돌싱포맨
+https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/jQ0zIKy.png",SBS 백종원의 골목식당 [uk]
+https://jmp2.uk/stvp-KRBB4200011RB
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/n8HwMOh.png",SBS 정글의 법칙 [uk]
+https://jmp2.uk/stvp-KRBB4200012PV
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/mnSddHB.png",SBS 불타는 청춘 [uk]
+https://jmp2.uk/stvp-KRBB42000100V
+
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/irUjuCB.png",KBS 1박2일 [uk]
+https://jmp2.uk/stvp-KRBC4400003SD
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/HXLYP8G.png",KBS 개는 훌륭하다 [uk]
+https://jmp2.uk/stvp-KR700003L9
+
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Kgstvm2.png",MBC 거침없이 하이킥 [uk]
+https://jmp2.uk/stvp-KRBC2000010X
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/LOf3FCA.png",MBC 지붕뚫고 하이킥 [uk]
+https://jmp2.uk/stvp-KRBC200005H6
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/1Nh8bD5.png",MBC 놀면뭐하니? [uk]
+https://jmp2.uk/stvp-KRBB5000073UD
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/BDGfono.png",MBC 전지적 참견시점 [uk]
+https://jmp2.uk/stvp-KRBC20000418
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/9SKNouZ.png",MBC 나 혼자 산다 [uk]
+https://jmp2.uk/stvp-KRBC200002I0
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/j5VeKuk.png",MBC 안싸우면 다행이야 [uk]
+https://jmp2.uk/stvp-KRBC20000347
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/rsigXha.png",MBC 무한도전 [uk]
+https://jmp2.uk/stvp-KRBB5000069BS
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/nIz0xvp.png",MBC 심야괴담회 [uk]
+https://jmp2.uk/stvp-KRBB50000711L
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/OuYdt7W.png",MBC 오은영리포트 결혼지옥 [uk]
+https://jmp2.uk/stvp-KRBB50000721W
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/aF7RsNG.png",Mnet 스트릿우먼파이터
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/aF7RsNG.png",Mnet 스트릿우먼파이터 [uk]
+https://jmp2.uk/stvp-KRBC3200028P2
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/hkFuAAK.png",tvN 환혼 [uk]
+https://jmp2.uk/stvp-KRBC4500001A5
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/7TCGwsm.png",tvN 대탈출 시리즈 [uk]
+https://jmp2.uk/stvp-KRBC800016YS
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/YkMxFco.png",tvN 유 퀴즈 온 더 블럭 [uk]
+https://jmp2.uk/stvp-KRBD3100002JL
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/FtWjFiM.png",tvN STORY 내 새끼의 연애
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Q6zP00w.png",tvN 벌거벗은 세계사 [uk]
+https://jmp2.uk/stvp-KRBC3200021ZA
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/HHLghgz.png",tvN 응답하라 시리즈 [uk]
+https://jmp2.uk/stvp-KRBC3200013UR
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/mSkYLzI.png",tvN 보검매직컬 [uk]
+https://jmp2.uk/stvp-KRBC3200029C4
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/5vBgPl8.png",tvN 콩콩팥팥 / 콩콩밥밥 [uk]
+https://jmp2.uk/stvp-KRBC8000144F
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/eakqKBZ.png",tvN 삼시세끼 고창편 [uk]
+https://jmp2.uk/stvp-KRBC3200030BO
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/wP3Zzgt.png",tvN 삼시세끼 어촌편5 [uk]
+https://jmp2.uk/stvp-KRBC32000156C
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/87s01Ao.png",tvN 신서유기7~8 [uk]
+https://jmp2.uk/stvp-KRBC32000248R
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/yx7SKc5.png",tvN 바퀴달린집 [uk]
+https://jmp2.uk/stvp-KRBC8000128W
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/vyYq0VO.png",tvN 장사천재 백사장 [uk]
+https://jmp2.uk/stvp-KR700006WZ
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/lrZ497w.png",tvN STORY 각집 부부 [uk]
+https://jmp2.uk/stvp-KRBC800013YF
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/79FKSGm.png",jtbc 냉장고를 부탁해 [uk]
+https://jmp2.uk/stvp-KRBC46000014A
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/HhwAi1T.png",jtbc 톡파원 25시 [uk]
+https://jmp2.uk/stvp-KRBC50000218R
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/3yDwQx2.png",jtbc 한문철의 블랙박스리뷰 [uk]
+https://jmp2.uk/stvp-KRBC5000020AF
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/sMO0hbn.png",jtbc 이혼숙려캠프 [uk]
+https://jmp2.uk/stvp-KRBC5000019FB
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/OU0F0Bc.png",jtbc 캠핑클럽 [uk]
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/ZS3O7Ol.png",jtbc 뭉쳐야찬다3 [uk]
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/AObGkPE.png",jtbc 최강야구
+https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/8AnpH8X.png",채널A 도시어부
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/UtN5z8G.png",TV조선 백반기행
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/LMkRFEG.png",코미디TV 맛잇는 녀석들
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/8KtSevm.png",MBN 나는 자연인이다
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/23LaqxK.png",EBS 극한직업
+https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xsznusvgu7e2n/cac8d5cb-bd9d-46d0-ad92-a90e16f8380f/0.m3u8
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Age3vGh.png",할명수
+https://jmp2.uk/stvp-KR480000234
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/nkCLYiw.png",M2 [uk]
+https://jmp2.uk/stvp-KRBC3200023BG
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/TyDSY2q.png",SCREEN GOLFZON [uk]
+https://jmp2.uk/stvp-KR44000010Y
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/ro5JDX3.png",CJ ENM MOVIE
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/KaCTa0H.png",Studio Genie MOVIE 1
+https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/KaCTa0H.png",Studio Genie MOVIE 2
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/kdJmkeO.png",K-Food by CJ ENM
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/RnFmvRH.png",베베핀
+https://51b80d278dd84f5da8da8832f26a6e47.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qdes3yq6z566m/67bdceb4-7cbc-46d5-8d3c-dfa3fc93b48a/0.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/DjtuK8F.png",뽀요TV
+https://c9f573a52b2044e9aeb263646dcdaaf5.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i91aqem27nh0w/8e4860ce-531e-497c-b50e-79517e000efe/1.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/ay6zcpr.png",코코비TV
+https://3226c0360554432fb870bb14c7a633ed.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bzo6omdamy3gm/f3b5800d-1000-426a-8136-44831115b35c/0.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/PvkE2rf.png",로보카폴리
+https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hk7cvudmr98ff/713bcecf-006e-4d35-a320-ba780451775f/0.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/OIXtwwW.png",요리왕 비룡
+https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/0e3566f7-526d-42f6-8150-048dba7e830b/0.m3u8
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/OIXtwwW.png",요리왕 비룡
+https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/b0cc7455-6b41-4281-9111-2c54b8aeb45d/0.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/jxifmdO.png",바오 패밀리
+https://700535da28924f3ba47aeb68bfb9f3ce.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1hzfoumjy9kvk/b4663e43-7fd6-46c6-ad6a-b844abe10f67/0.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/JAPDE4n.png",카 시티 어드벤처
+https://d3r9wj3bpbhm82.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h740e05qtkqx9/master.m3u8
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/niEGFms.png",포켓몬스터
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/Nvlmm6r.png",키즈 타임 [uk]
+
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/CoqRFAO.png",명탐정 코난 (자막) [uk]
+https://jmp2.uk/stvp-KRBC32000200B
+
+#EXTINF:-1 group-title="SAMSUNG TV Plus" tvg-logo="https://i.imgur.com/ODRkQuB.png",짱구는 못말려 [uk]
+https://jmp2.uk/stvp-KR10000017U
+
+
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ViGcbvW.png",Persiana Korea (중동 위성방송)
+https://korhls.persiana.live/hls/stream.m3u8
+
+
+
+#N.KOREA
+#JAPAN
+#EXTINF:-1 group-title="KOREA" tvg-logo="" group-title="",【　IPTV N.KOREA　】
+https://#
+
+#EXTINF:0 group-title="N.KOREA" tvg-logo="https://i.imgur.com/IV6qQfq.png",조선중앙텔레비죤
+https://tv.intchoson.com/kctv/main_stream.m3u8
+
+
+
+#JAPAN
+#EXTINF:-1 group-title="KOREA" tvg-logo="" group-title="",【　IPTV JAPAN　】
+https://#
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) [A]
+http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) (Sub) [A]
+http://akariko.netgenx.site/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) [M]
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G HD (1ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E (2ch) [A]
+http://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E (2ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E HD (2ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) [A]
+http://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) [M]
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) HD [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch) [A]
+http://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch) [M]
+http://main1.mov3.co/hls/main.m3u8
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 HD (6ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo (7ch) [A]
+http://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo (7ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo HD (7ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch) [A]
+http://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch) [M]
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV HD (8ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 (9ch) [A]
+http://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 (9ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 HD (9ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX2 (9-2ch)
+http://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch) [A]
+http://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch) [M]
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ HD (10ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G Osaka (1ch) [A]
+http://akariko.netgenx.site/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G Osaka (1ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/siYIGI0.png",SUN TV (3ch) [A]
+http://akariko.netgenx.site/stream/jp/sun/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/siYIGI0.png",SUN TV (3ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ORJsGlz.png",MBS (4ch) [A]
+http://akariko.netgenx.site/stream/jp/mbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ORJsGlz.png",MBS (4ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/SDOf1Bv.png",KBS (5ch) [A]
+http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jbRpjfy.png",ABC (6ch) [A]
+http://akariko.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jbRpjfy.png",ABC (6ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/9w06U7I.png",TV Osaka (7ch) [A]
+http://akariko.netgenx.site/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/9w06U7I.png",TV Osaka (7ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/BXTKuil.png",関西テレビ (8ch) [A]
+http://akariko.netgenx.site/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/BXTKuil.png",関西テレビ (8ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GcnuP5f.png",読売テレビ (10ch) [A]
+http://akariko.netgenx.site/stream/jp/ytv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GcnuP5f.png",読売テレビ (10ch) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/S8q6NNY.png",NHK World Japan
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/S8q6NNY.png",NHK World Japan [A]
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/S8q6NNY.png",NHK World Japan [F]
+https://stream1.freetv.fun/d10b157216483dbbe97818c472af25e7f9ba086e7abe82c0bebf8b715ebc7cdf.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkwp" tvg-logo="https://i.imgur.com/KA2nQl6.png",NHK World Premium
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS [A]
+http://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS (Sub) [A]
+http://akariko.netgenx.site/stream/jp/nhk_bs_%28subch%29/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbsp" tvg-logo="https://i.imgur.com/PeB8OaG.png",NHK BS Premium 4K [A]
+http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbsp" tvg-logo="https://i.imgur.com/PeB8OaG.png",NHK BS Premium 4K [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs10" tvg-logo="https://i.imgur.com/YtEpA8L.png",BS10 [A]
+http://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs10star" tvg-logo="https://i.imgur.com/1FOI6lv.png",BS10 PREMIUM [A]
+http://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs10star" tvg-logo="https://i.imgur.com/1FOI6lv.png",BS10 PREMIUM [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs11" tvg-logo="https://i.imgur.com/ODNGv8G.png",BS11 [A]
+http://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs11" tvg-logo="https://i.imgur.com/FhGSnBh.png",BS12 [A]
+http://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsntv" tvg-logo="https://i.imgur.com/FSEraUD.png",BS 日テレ [A]
+http://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsntv" tvg-logo="https://i.imgur.com/FSEraUD.png",BS 日テレ [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 [A]
+http://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS [A]
+http://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo [A]
+http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo 4K [A]
+http://akariko.netgenx.site/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji [A]
+http://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/JDWZhBk.png",WOWOW Prime [A]
+http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/JDWZhBk.png",WOWOW Prime [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/NM6C9Ut.png",WOWOW Cinema [A]
+http://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/NM6C9Ut.png",WOWOW Cinema [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowlive" tvg-logo="https://i.imgur.com/0WzT8T7.png",WOWOW Live [A]
+http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowlive" tvg-logo="https://i.imgur.com/0WzT8T7.png",WOWOW Live [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowplus" tvg-logo="https://i.imgur.com/IQj7wgV.png",WOWOW Plus [A]
+http://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/Smo8IeO.png",日本映画専門チャンネル [A]
+http://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/Smo8IeO.png",日本映画専門チャンネル [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="starch1" tvg-logo="https://i.imgur.com/UTs4S01.png",Star1
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="starch2" tvg-logo="https://i.imgur.com/4ylKus2.png",Star2
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="starch3" tvg-logo="https://i.imgur.com/Jd4JDcw.jpg",Star3
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/BcwT1tN.png",BS松竹東急
+
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/ahVYCFJ.png",TBS チャンネル 1 [A]
+http://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 gFroup-title="IPTV_JPN" tvg-logo="https://i.imgur.com/rPLmGYa.png",TBS チャンネル 2 [A]
+http://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/59urRJw.png",テレ朝 ch1 [A]
+http://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/nQDjt8d.png",テレ朝 ch2 [A]
+http://akariko.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_one" tvg-logo="https://i.imgur.com/VMtAMSl.png",Fuji TV ONE [A]
+http://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_two" tvg-logo="https://i.imgur.com/Pqr5Hc5.png",Fuji TV TWO [A]
+http://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT [A]
+http://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/sKtEXVz.png",日テレプラス [A]
+http://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+
+
+#EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://i.imgur.com/xC3Xkaq.png",KBS World
+http://akariko.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="mnet" tvg-logo="https://i.imgur.com/I2rZ0a2.png",Mnet Japan [A]
+http://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-id="CH.657" tvg-name="KNTV" tvg-logo="https://i.imgur.com/whxr1Vr.png",KNTV [A]
+http://akariko.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/4lA3ujd.png",Space Shower TV [A]
+http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/4lA3ujd.png",Space Shower TV [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/cW3BuH8.png",歌謡ポップスチャンネル [A]
+http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/cW3BuH8.png",歌謡ポップスチャンネル [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="mtv" tvg-logo="https://i.imgur.com/k5SjvRZ.png",MTV [A]
+http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="mtv" tvg-logo="https://i.imgur.com/k5SjvRZ.png",MTV [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/RsdItoE.png",MUSIC JAPAN [A]
+http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/RsdItoE.png",MUSIC JAPAN [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/rKwzSDu.png",Music ON TV! [A]
+http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Q7G6yso.png",TAKARAZUKA SKY STAGE [A]
+http://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Q7G6yso.png",TAKARAZUKA SKY STAGE [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX [A]
+http://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GbHFx5O.jpg",AT-X [A]
+http://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneych" tvg-logo="https://i.imgur.com/RtlPVqo.png",Disney Channel Japan [A]
+http://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneych" tvg-logo="https://i.imgur.com/RtlPVqo.png",Disney Channel Japan [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneyjr" tvg-logo="https://i.imgur.com/JqJ04rw.png",Disney Junior [A]
+http://akariko.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneyjr" tvg-logo="https://i.imgur.com/JqJ04rw.png",Disney Junior [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network [A]
+http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station [A]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="homedrama" tvg-logo="https://i.imgur.com/V0p5pXf.png",スーパー！ドラマTV [A]
+http://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="homedrama" tvg-logo="https://i.imgur.com/oAahRiY.png",ホームドラマチャンネル [A]
+http://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="homedrama" tvg-logo="https://i.imgur.com/oAahRiY.png",ホームドラマチャンネル [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jLiNiH6.png",LaLaTV [A]
+http://akariko.netgenx.site/stream/jp/lala_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jLiNiH6.png",LaLaTV [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河 [A]
+http://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河 [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="toeich" tvg-logo="https://i.imgur.com/l9ogNCL.jpg",東映チャンネル [A]
+http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="toeich" tvg-logo="https://i.imgur.com/l9ogNCL.jpg",東映チャンネル [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/NwWMeDe.png",ファミリー劇場 [A]
+http://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/NwWMeDe.png",ファミリー劇場 [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="eigeki" tvg-logo="https://i.imgur.com/GfgT9ZJ.png",衛星劇場 (Eisei Gekijo) [A]
+http://akariko.netgenx.site/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="eigeki" tvg-logo="https://i.imgur.com/GfgT9ZJ.png",衛星劇場 (Eisei Gekijo) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="neco" tvg-logo="https://i.imgur.com/rSw1VRn.png",映画・チャンネルNECO [A]
+http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="thecinema" tvg-logo="https://i.imgur.com/yAyyAi7.png",ザ・シネマ (The Cinema)　[A]
+http://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="movieplus" tvg-logo="https://i.imgur.com/4fPQrVw.png",ムービープラス (Movie Plus) [A]
+http://akariko.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="movieplus" tvg-logo="https://i.imgur.com/4fPQrVw.png",ムービープラス (Movie Plus) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/PK6wc9g.png",時代劇専門チャンネル [A]
+http://akariko.netgenx.site/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/PK6wc9g.png",時代劇専門チャンネル [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/O8virv1.png",Mystery Channel [A]
+http://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/DMlVvZP.png",Action Channel [A]
+http://akariko.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fox" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife
+https://live.livingjtv.live/jp57/playlist.m3u8?token=M7VMdfn2WH
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GlPDTnn.png",エンタメ～テレ
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/AFNYXOI.png",メ～テレNEXT
+https://live.livingjtv.live/jp86/playlist.m3u8?token=M7VMdfn2WH
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/0C5G1lV.png",MONDO TV [A]
+http://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/0C5G1lV.png",MONDO TV [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/yGwjs7A.png",囲碁・将棋チャンネル [A]
+http://akariko.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル [A]
+http://akariko.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/D4Vom6K.png",鉄道チャンネル [A]
+http://akariko.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/AlybDUC.jpg",National Geographic [A]
+http://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/AlybDUC.jpg",National Geographic [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/saOtFDE.png",Discovery [A]
+http://akariko.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/saOtFDE.png",Discovery [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/XesOF9w.png",Animal Planet [A]
+http://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/XesOF9w.png",Animal Planet [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/vRsZ1cu.png",HISTORY [A]
+http://akariko.netgenx.site/stream/jp/history/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/vRsZ1cu.png",HISTORY [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js1" tvg-logo="https://i.imgur.com/1AS0EQQ.png",J SPORTS 1 [A]
+http://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js1" tvg-logo="https://i.imgur.com/1AS0EQQ.png",J SPORTS 1 [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js2" tvg-logo="https://i.imgur.com/BgdzJtn.png",J SPORTS 2 [A]
+http://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js2" tvg-logo="https://i.imgur.com/BgdzJtn.png",J SPORTS 2 [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js3" tvg-logo="https://i.imgur.com/2HwhysX.png",J SPORTS 3 [A]
+http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js3" tvg-logo="https://i.imgur.com/2HwhysX.png",J SPORTS 3 [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js4" tvg-logo="https://i.imgur.com/pa9669n.png",J SPORTS 4 [A]
+http://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js4" tvg-logo="https://i.imgur.com/pa9669n.png",J SPORTS 4 [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="greench" tvg-logo="https://i.imgur.com/OlGWXHj.png",GREEN Channel [A]
+http://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="greench" tvg-logo="https://i.imgur.com/OlGWXHj.png",GREEN Channel [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="gaora" tvg-logo="https://i.imgur.com/q31tcoy.png",GAORA SPORTS [A]
+http://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="gaora" tvg-logo="https://i.imgur.com/q31tcoy.png",GAORA SPORTS [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/hkdoiaW.png",日テレジータス [A]
+http://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/hkdoiaW.png",日テレジータス [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/IayTCS3.png",FIGHTING TV サムライ [A]
+http://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/qTKSPiL.png",G GOLF NETWORK [A]
+http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/qTKSPiL.png",G GOLF NETWORK [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="sports_live_plus" tvg-logo="https://i.imgur.com/IZSmzcR.png",Sport Live Plus [A]
+http://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fishing" tvg-logo="https://i.imgur.com/3TfvUTJ.png",釣りビジョン [A]
+http://akariko.netgenx.site/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fishing" tvg-logo="https://i.imgur.com/3TfvUTJ.png",釣りビジョン [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS [A]
+http://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A) [A]
+http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A) [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="v_paradise" tvg-logo="https://i.imgur.com/1jbDsxl.png",V Paradise [A]
+http://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/iZ17rjw.png",Pigoo [A]
+http://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Pio1aZZ.png",日テレNEWS24 [A]
+http://akariko.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/VefBXAR.png",TBS NEWS [A]
+http://akariko.netgenx.site/stream/jp/tbs_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/VefBXAR.png",TBS NEWS [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ZpG1nvT.png",BBC [A]
+http://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ZpG1nvT.png",BBC [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/1AXz840.png",CNNj [A]
+http://akariko.netgenx.site/stream/jp/cnnj/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/1AXz840.png",CNNj [P]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+
+
+
+#JAPAN Lemino TV
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",ビジネス・プレミアム (FASTch)
+https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_entns" tvg-name="エンタメニュース (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo",エンタメニュース (FASTch)
+https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",GOLF LIFE (FASTch)
+https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/samri/channel_logo",時代劇TV (FASTch)
+https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo",LeminoTV (FASTch)
+https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo",エンタメ・アジア (FASTch)
+https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/kids/channel_logo",アニマックス FREE (FASTch)
+https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo",ペットTV (FASTch)
+https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo",キャンプ・アウトドア (FASTch)
+https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo",今日のごはんなに? (FASTch)
+https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo",観るたび (FASTch)
+https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo",丸ごと九州 (FASTch)
+https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo",ぴあ落語ざんまい (FASTch)
+https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo",FASHIONPLUS (FASTch)
+https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/goshogi/channel_logo",囲碁・将棋ライト (FASTch)
+https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo",丸ごと北海道 (FASTch)
+https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo",東海ロキポ (FASTch)
+https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo",韓流チャンネル (FASTch)
+https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+
+
+
+#JAPAN RakutenTV
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png",日テレNEWS [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png",FNNプライムオンライン [RakutenTV]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png",MBS NEWS [RakutenTV]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+#ttps://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/f67b99a7-cc72-4bfc-b76b-01be61ee301a/0.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/107_whethernews.png",ウェザーニュースLiVE [RakutenTV]
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png",共同通信News [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/110_ntvnewsselect.png",日テレNEWSセレクト [RakutenTV]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews.png",オリコンニュース [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/188_kyushu.png",九州沖縄街ネタ [RakutenTV]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/140_anime.png", アニメ [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime1hls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",しまじろうチャンネル [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png",キッズ [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png",ムビドラTV [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/156_newk-pop.png",New KPOP [RakutenTV]
+https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165&apikey=dc76a93e-178d-5156-d492-c01a0429525f&auth=3ba56277-fd5f03a0-8b874b17-894d93c7
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png",エンタメ～テレDEEP [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/232_enka.png",演歌・歌謡 [RakutenTV]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-enka-cmaf-rakutenjp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/204_igoshogi.png",囲碁・将棋ライト [RakutenTV]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/205_shogi.png",将棋 [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shogicmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/206_mahjong.png",麻雀 [RakutenTV]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/207_pachislo.png",パチンコ・パチスロ [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png",手塚プロダクションTV [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png",刺激ストロングSPORTS [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png",鉄道・旅 [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/180_history.png",HISTORY [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakutenjp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/123_albatvgolf.png",ゴルフネットTV [RakutenTV]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_ntvprowrestling.png",日テレプロレスアーカイ部（スポーツ） [RakutenTV]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png",GAORA ZERO [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png",FUEL TV [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png",R15+ セクシーエンタメチャンネル [RakutenTV]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png",R15+ おとなの歓楽街 by MEN’S NECO [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png",R15+ アイドル・グラビア [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png",R15+ 刺激ストロング [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",R15+ 映画 [RakutenTV]
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
+
+
+
+#JAPAN AbemaTV
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/wOeD4Pu.png",ABEMA NEWS [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/UXOGJrs.png",ABEMA NEWS 会見 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/news-plus/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/zAZp754.png",30時間限界突破フェス [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/30h-1/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/sFzAkr6.png",ABEMA SPECIAL [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-special/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/XSE4MuV.png",ABEMA SPECIAL 2 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/special-plus/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/KhIC6bo.png",ABEMA アニメ [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/6x4lUzI.png",ABEMA アニメ2 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-2/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/8rK3Fg1.png",Re-ゼロ [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/re-zero/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/g2SAFa4.png",アニメSPECIAL [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/gbdWMMb.png",アニメSPECIAL2 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/anime-special-2/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/iA7pdpB.png",異世界・ファンタジーアニメ [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/BbsnOSS.png",異世界・ファンタジーアニメ2 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-2/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/AxWN7K8.png",異世界・ファンタジーアニメ3 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/fQlPCxs.png",ラブコメアニメ [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/lovecomedy-anime/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/zlf58Ci.png",日常・青春アニメ [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/dailylife-anime/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/OosZ4i4.png",深夜アニメ [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/late-night-anime/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/BN5knDe.png",アニメLIVE [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/vYP2UBz.png",アニメLIVE2 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/anime-live2/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/NW1iKAD.png",ちびまる子ちゃん [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/chibimaruko/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/9lbYEj8.png", あたしンち [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/atashinchi/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/lAIYypw.png",アニメ ポケットモンスター1 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-1/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/rMQWKLX.png",アニメ ポケットモンスター2 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-2/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/Rh4dHqq.png",名探偵コナン [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/conan/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/GP2iP2U.png",ONE PIECE [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/onepiece/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/JUdoIFS.png",ファミリーアニメ [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/9Y8SqQt.png",ファミリーアニメ２ [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-2/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/V2Scpkj.png",なつかしアニメ80's [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/80s-anime-1/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/r84ki4I.png",なつかしアニメ90's [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/90s-anime-1/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/VJz6nhI.png",なつかしアニメ00's [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/00s-anime-1/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/uzRT4go.png",K WORLD [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/k-world/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/xxHRapl.png",韓国ドラマ [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/mAyecCk.png",韓国ドラマ2 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama-2/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/HI9ygBT.png",韓国ラブコメディ [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-love-comedy/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/22qAnDd.png",韓国ラブロマンス [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-loveromance/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/3CaTRHO.png",韓国時代劇 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-historical/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/xj3THlf.png",中国ドラマ [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/chinese-drama/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/PV8O6DV.png",ドラマ映画CHANNEL [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/drama/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/Jvj1ARD.png",ドラマ映画CHANNEL2 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/JrnNBWP.png",ドラマ映画CHANNEL3 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/drama-3/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/p5NEDU1.png",麻雀 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/mahjong/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/JNJkJrY.png",将棋 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/shogi/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/M3nxdex.png",SPORTS [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/AkCArQW.png",MOTOR SPORT [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/varinAt.png",BOATRACE [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/E2ngK23.png",格闘 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/NTRCF3g.png",大相撲 [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/sumo/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/P4T19ik.png",HIPHOP [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/hiphop/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/kLuYzsV.png",競輪・オートレース
+https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/m7M0fTx.png",CMチャンネル [AbemaTV]
+https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",Abema Test
+ttps://vod-abematv.akamaized.net/program/19-171_s1_p1/manifest.mpd
+
+
+
+#JAPAN ETC
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/KDoMWay.png",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/KDoMWay.png",QVC Japan
+https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png",SHOP CHANNEL
+https://live.livingtv.live/jp38/playlist.m3u8?token=M7VMdfn2WH
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png",SHOP CHANNEL
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="rch_112" tvg-name="GSTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_gstv.png",GSTV
+https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/HCrWTCz.png",群馬テレビ Gunma TV
+
+#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/vcGsZVD.png",HBC北海道放送NEWS
