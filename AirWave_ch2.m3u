@@ -235,7 +235,7 @@ http://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="",日テレプラス [A]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/sKtEXVz.png",日テレプラス [A]
 http://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 
 
@@ -455,7 +455,7 @@ http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/qTKSPiL.png",G GOLF NETWORK [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus [A]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="sports_live_plus" tvg-logo="https://i.imgur.com/IZSmzcR.png",Sport Live Plus [A]
 http://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fishing" tvg-logo="https://i.imgur.com/3TfvUTJ.png",釣りビジョン [A]
@@ -503,64 +503,63 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 
 #JAPAN Lemino TV
 
-#EXTINF:-1 tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",ビジネス・プレミアム (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",ビジネス・プレミアム (FASTch)
 https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_entns" tvg-name="エンタメニュース (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo",エンタメニュース (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_entns" tvg-name="エンタメニュース (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo",エンタメニュース (FASTch)
 https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",GOLF LIFE (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",GOLF LIFE (FASTch)
 https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/samri/channel_logo",時代劇TV (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/samri/channel_logo",時代劇TV (FASTch)
 https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo",LeminoTV (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo",LeminoTV (FASTch)
 https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo",エンタメ・アジア (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo",エンタメ・アジア (FASTch)
 https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/kids/channel_logo",アニマックス FREE (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/kids/channel_logo",アニマックス FREE (FASTch)
 https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo",ペットTV (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo",ペットTV (FASTch)
 https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo",キャンプ・アウトドア (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo",キャンプ・アウトドア (FASTch)
 https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo",今日のごはんなに? (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo",今日のごはんなに? (FASTch)
 https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo",観るたび (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo",観るたび (FASTch)
 https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo",丸ごと九州 (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo",丸ごと九州 (FASTch)
 https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo",ぴあ落語ざんまい (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo",ぴあ落語ざんまい (FASTch)
 https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo",FASHIONPLUS (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo",FASHIONPLUS (FASTch)
 https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/goshogi/channel_logo",囲碁・将棋ライト (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/goshogi/channel_logo",囲碁・将棋ライト (FASTch)
 https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo",丸ごと北海道 (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo",丸ごと北海道 (FASTch)
 https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo",東海ロキポ (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo",東海ロキポ (FASTch)
 https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo",韓流チャンネル (FAST)
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo",韓流チャンネル (FASTch)
 https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
 
 
 
 #JAPAN RakutenTV
-
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png",日テレNEWS [RakutenTV]
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
@@ -838,7 +837,7 @@ https://live.livingtv.live/jp38/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png",SHOP CHANNEL
 https://stream3.shopch.jp/HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="rch_112" tvg-name="GSTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_gstv.png",GSTV
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="rch_112" tvg-name="GSTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_gstv.png",GSTV
 https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/HCrWTCz.png",群馬テレビ Gunma TV
