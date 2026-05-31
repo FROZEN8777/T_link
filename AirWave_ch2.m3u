@@ -1,6 +1,6 @@
 #EXTM3U
 #AirWaveTV_ch2 2026/03/29 Release
-#Update date 2026/05/24
+#Update date 2026/06/01
 
 #JAPAN
 
@@ -161,6 +161,9 @@ http://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 4K [A]
+http://akariko.netgenx.site/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
+
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS [A]
 http://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS [P]
@@ -239,7 +242,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 http://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 
 
-#EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://i.imgur.com/xC3Xkaq.png",KBS World
+#EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://i.imgur.com/xC3Xkaq.png",KBS World [A]
 http://akariko.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls
 
 
@@ -277,6 +280,8 @@ http://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mo
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Q7G6yso.png",TAKARAZUKA SKY STAGE [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-161-400x400.png",ミュージック・エア [A]
+http://akariko.netgenx.site/stream/jp/music_air/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX [A]
@@ -302,8 +307,7 @@ http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hl
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station [A]
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
@@ -364,7 +368,9 @@ http://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hl
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/DMlVvZP.png",Action Channel [A]
 http://akariko.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fox" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="dlife" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife [A]
+http://akariko.netgenx.site/stream/jp/dlife/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="dlife" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife
 https://live.livingjtv.live/jp57/playlist.m3u8?token=M7VMdfn2WH
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GlPDTnn.png",エンタメ～テレ
@@ -821,7 +827,7 @@ https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u
 https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",Abema Test
-ttps://vod-abematv.akamaized.net/program/19-171_s1_p1/manifest.mpd
+#ttps://vod-abematv.akamaized.net/program/19-171_s1_p1/manifest.mpd
 
 
 

@@ -1,6 +1,6 @@
 #EXTM3U
 #AirWaveTV_ch1 2026/03/29 Release
-#Update date 2026/05/24
+#Update date 2026/06/01
 
 #KOREA
 
@@ -100,11 +100,12 @@ https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/I75ze6B.png",MBC 울산
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ZqeEth1.png",MBC 여수
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/4j58rxj.png",MBC 부산
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/OctaSlD.png",MBC 제주
-
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/rA8XVuE.png",MBC AMERICA
 
@@ -158,7 +159,7 @@ http://43.137.43.57/get_channel.php?channel=channela
 http://43.137.43.57/get_channel.php?channel=tvn
 
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/fFeXmBq.png",OCN
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/fFeXmBq.png",OCN [g]
 http://43.137.43.57/get_channel.php?channel=ocn
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/RE0trJR.png",OCN Movies
@@ -248,8 +249,13 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_415_3B0A4DFF.m3u8
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/i0qhPUB.png",ch Btv
 http://tbroad-233.live.wecandeo.com/live/7/233_high.m3u8
 
-#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/JYrRZtb.png",딜라이브TV [t]
+#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/JYrRZtb.png",딜라이브TV 서울 [t]
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_510_723FFBD1.m3u8
+#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/JYrRZtb.png",딜라이브TV 서울
+http://112.214.255.230/hls/ch02/playlist.m3u8
+
+#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/JYrRZtb.png",딜라이브TV 경기
+http://112.214.255.233/hls/ch02/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/I5v1EWj.png",OBS [t]
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_55.m3u8
@@ -267,6 +273,8 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
 #EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Z6NXzre.png",CCS 충북방송 [t]
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_416_B1ABF570.m3u8
+#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Z6NXzre.png",CCS 충북방송
+https://media.ccstv.co.kr:1936/OnAirEdge/OnAir/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/xUoTxf5.png",JCN 울산중앙방송
 
@@ -274,15 +282,24 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_416_B1ABF570.m3u8
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/u8oWItm.png",KCTV 광주방송 CH05
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/o6e1nPw.png",SCS ch8 서경방송
-https://live.iscs.co.kr/m_live/480p.stream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/o6e1nPw.png",SCS ch8 서경방송
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/u8oWItm.png",KCTV 광주방송 CH21
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/o6e1nPw.png",SCS ch8 서경방송 (1080p)
+https://live.iscs.co.kr/live/1080p.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/o6e1nPw.png",SCS ch8 서경방송 (720p)
+https://live.iscs.co.kr/live/720p.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/o6e1nPw.png",SCS ch8 서경방송 (480p)
 https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/nOmnd6X.png",HCN 부산방송
 http://edge4.hcnmobile.tv/etv/phddmcbusan/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/3A0RAPa.png",KCTV 제주방송
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/3A0RAPa.png",KCTV 제주방송 채널7
+https://vod.kctvjeju.com/LIVE/ch7/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/3A0RAPa.png",KCTV 제주방송 채널20
+https://vod.kctvjeju.com/ch7/ch4/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/UaiNTFD.png",kcn 금강방송
 http://62db982017b54.streamlock.net:1935/live/_definst_/tv.stream/playlist.m3u8
@@ -405,6 +422,7 @@ https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CeQ2Iy.png" group-title="LG Channels",【 ▼▼ LG Channels ▼▼ 】
 https://#
 
@@ -429,6 +447,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=880
 #EXTINF:-1 group-title="LG Channels" tvg-logo="https://i.imgur.com/noxlgds.png",mubeat [LG Channels]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=884
 #ttps://stream.ads.ottera.tv/playlist.m3u8?network_id=887
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ql1WxcO.png" group-title="SAMSUNG TV Plus",【 ▼▼ SAMSUNG TV Plus ▼▼ 】

@@ -1,9 +1,9 @@
 #EXTM3U
 #AirWaveTV_ch_all 2026/05/24 Release
-#Update date 2026/05/24
+#Update date 2026/06/01
 
 #KOREA
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 2026/05/24　】
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 2026/06/01　】
 https://#
 
 
@@ -101,11 +101,12 @@ https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/I75ze6B.png",MBC 울산
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ZqeEth1.png",MBC 여수
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/4j58rxj.png",MBC 부산
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/OctaSlD.png",MBC 제주
-
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/rA8XVuE.png",MBC AMERICA
 
@@ -159,7 +160,7 @@ http://43.137.43.57/get_channel.php?channel=channela
 http://43.137.43.57/get_channel.php?channel=tvn
 
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/fFeXmBq.png",OCN
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/fFeXmBq.png",OCN [g]
 http://43.137.43.57/get_channel.php?channel=ocn
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/RE0trJR.png",OCN Movies
@@ -249,8 +250,13 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_415_3B0A4DFF.m3u8
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/i0qhPUB.png",ch Btv
 http://tbroad-233.live.wecandeo.com/live/7/233_high.m3u8
 
-#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/JYrRZtb.png",딜라이브TV [t]
+#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/JYrRZtb.png",딜라이브TV 서울 [t]
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_510_723FFBD1.m3u8
+#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/JYrRZtb.png",딜라이브TV 서울
+http://112.214.255.230/hls/ch02/playlist.m3u8
+
+#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/JYrRZtb.png",딜라이브TV 경기
+http://112.214.255.233/hls/ch02/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/I5v1EWj.png",OBS [t]
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_55.m3u8
@@ -268,6 +274,8 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
 #EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Z6NXzre.png",CCS 충북방송 [t]
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_416_B1ABF570.m3u8
+#EXTINF:28 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Z6NXzre.png",CCS 충북방송
+https://media.ccstv.co.kr:1936/OnAirEdge/OnAir/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/xUoTxf5.png",JCN 울산중앙방송
 
@@ -275,15 +283,24 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_416_B1ABF570.m3u8
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/u8oWItm.png",KCTV 광주방송 CH05
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/o6e1nPw.png",SCS ch8 서경방송
-https://live.iscs.co.kr/m_live/480p.stream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/o6e1nPw.png",SCS ch8 서경방송
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/u8oWItm.png",KCTV 광주방송 CH21
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/o6e1nPw.png",SCS ch8 서경방송 (1080p)
+https://live.iscs.co.kr/live/1080p.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/o6e1nPw.png",SCS ch8 서경방송 (720p)
+https://live.iscs.co.kr/live/720p.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/o6e1nPw.png",SCS ch8 서경방송 (480p)
 https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/nOmnd6X.png",HCN 부산방송
 http://edge4.hcnmobile.tv/etv/phddmcbusan/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/3A0RAPa.png",KCTV 제주방송
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/3A0RAPa.png",KCTV 제주방송 채널7
+https://vod.kctvjeju.com/LIVE/ch7/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/3A0RAPa.png",KCTV 제주방송 채널20
+https://vod.kctvjeju.com/ch7/ch4/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/UaiNTFD.png",kcn 금강방송
 http://62db982017b54.streamlock.net:1935/live/_definst_/tv.stream/playlist.m3u8
@@ -871,6 +888,9 @@ http://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 4K [A]
+http://akariko.netgenx.site/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
+
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS [A]
 http://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS [P]
@@ -949,7 +969,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 http://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 
 
-#EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://i.imgur.com/xC3Xkaq.png",KBS World
+#EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://i.imgur.com/xC3Xkaq.png",KBS World [A]
 http://akariko.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls
 
 
@@ -987,6 +1007,8 @@ http://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mo
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Q7G6yso.png",TAKARAZUKA SKY STAGE [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-161-400x400.png",ミュージック・エア [A]
+http://akariko.netgenx.site/stream/jp/music_air/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX [A]
@@ -1012,8 +1034,7 @@ http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hl
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station [A]
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
@@ -1074,7 +1095,9 @@ http://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hl
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/DMlVvZP.png",Action Channel [A]
 http://akariko.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fox" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="dlife" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife [A]
+http://akariko.netgenx.site/stream/jp/dlife/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="dlife" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife
 https://live.livingjtv.live/jp57/playlist.m3u8?token=M7VMdfn2WH
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GlPDTnn.png",エンタメ～テレ
@@ -1182,13 +1205,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A) [P]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="v_paradise" tvg-logo="https://i.imgur.com/1jbDsxl.png",V Paradise [A]
-http://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/iZ17rjw.png",Pigoo [A]
-http://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Pio1aZZ.png",日テレNEWS24 [A]
@@ -1364,21 +1380,6 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-raku
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png",R15+ セクシーエンタメチャンネル [RakutenTV]
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png",R15+ おとなの歓楽街 by MEN’S NECO [RakutenTV]
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png",R15+ アイドル・グラビア [RakutenTV]
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png",R15+ 刺激ストロング [RakutenTV]
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",R15+ 映画 [RakutenTV]
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
-
 
 
 #JAPAN AbemaTV
@@ -1531,7 +1532,7 @@ https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u
 https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="",Abema Test
-ttps://vod-abematv.akamaized.net/program/19-171_s1_p1/manifest.mpd
+#ttps://vod-abematv.akamaized.net/program/19-171_s1_p1/manifest.mpd
 
 
 
