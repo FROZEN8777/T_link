@@ -69,7 +69,7 @@ http://koreatv.dothome.co.kr/kbs2.php
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/8GpvKEj.png",KBS2 [g]
 http://43.137.43.57/get_channel.php?channel=kbs2
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/8GpvKEj.png",KBS2 [xy]
-https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
+https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/FspY016.png",MBC [d]
 http://koreatv.dothome.co.kr/mbc.php
