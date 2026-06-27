@@ -1,6 +1,6 @@
 #EXTM3U
 #AirWaveTV_ch1 2026/03/29 Release
-#Update date 2026/06/17
+#Update date 2026/06/27
 
 #KOREA
 
@@ -144,9 +144,9 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/SiY29CG.png",jtbc [g]
 http://43.137.43.57/get_channel.php?channel=jtbc
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/SiY29CG.png",jtbc [t]
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/SiY29CG.png",jtbc [t] (K-IP)
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/SiY29CG.png",jtbc [s]
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/SiY29CG.png",jtbc 뭉끈리턴즈 (K-IP)
 https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/dthLeCs.png",jtbc SPORTS
@@ -982,4 +982,4 @@ https://korhls.persiana.live/hls/stream.m3u8
 
 #N.KOREA
 #EXTINF:0 group-title="N.KOREA" tvg-logo="https://i.imgur.com/IV6qQfq.png",조선중앙텔레비죤
-https://tv.intchoson.com/kctv/main_stream.m3u8
+https://stream.intchoson.com/kctv/main_stream.m3u8
