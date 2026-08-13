@@ -721,10 +721,6 @@ https://korhls.persiana.live/hls/stream.m3u8
 https://#
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) [A]
-http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) (Sub) [A]
-http://akariko.netgenx.site/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) [M]
 https://nhk4.mov3.co/hls/nhk.m3u8
@@ -736,8 +732,6 @@ http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongyin
 
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E (2ch) [A]
-http://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E (2ch) [z]
 http://58.82.168.138:5002/gd02.m3u8?token=guoziyun&gid=gd02&channel=zhongying
@@ -746,8 +740,6 @@ http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=hdgd02&channel=zhongyin
 
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) [A]
-http://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) [M]
 https://tbs5.mov3.co/hls/tbs.m3u8
@@ -759,8 +751,6 @@ http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongyin
 
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch) [A]
-http://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch) [M]
 http://main1.mov3.co/hls/main.m3u8
@@ -772,18 +762,12 @@ http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongyin
 
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo (7ch) [A]
-http://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo (7ch) [z]
 http://58.82.168.138:5002/gd07.m3u8?token=guoziyun&gid=gd07&channel=zhongying
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo HD (7ch) [z]
 http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying
 
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch) [A]
-http://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch) [M]
 https://fujitv4.mov3.co/hls/fujitv.m3u8
@@ -794,10 +778,6 @@ http://58.82.168.138:5002/gd05.m3u8?token=guoziyun&gid=gd05&channel=zhongying
 http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying
 
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 (9ch) [A]
-http://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 (9ch) [z]
 http://58.82.168.138:5002/gd08.m3u8?token=guoziyun&gid=gd08&channel=zhongying
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 HD (9ch) [z]
@@ -805,13 +785,6 @@ http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=hdgd08&channel=zhongyin
 
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX2 (9-2ch)
-http://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
-
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch) [A]
-http://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch) [M]
 https://ntv4.mov3.co/hls/ntv.m3u8
@@ -823,58 +796,32 @@ http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongyin
 
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G Osaka (1ch) [A]
-http://akariko.netgenx.site/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G Osaka (1ch) [z]
 http://58.82.168.138:5002/gx06.m3u8?token=guoziyun&gid=gx06&channel=zhongying
 
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/siYIGI0.png",SUN TV (3ch) [A]
-http://akariko.netgenx.site/stream/jp/sun/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/siYIGI0.png",SUN TV (3ch) [z]
 http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying
 
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ORJsGlz.png",MBS (4ch) [A]
-http://akariko.netgenx.site/stream/jp/mbs/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ORJsGlz.png",MBS (4ch) [z]
 http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying
 
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/SDOf1Bv.png",KBS (5ch) [A]
-http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
-
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jbRpjfy.png",ABC (6ch) [A]
-http://akariko.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jbRpjfy.png",ABC (6ch) [z]
 http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying
 
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/9w06U7I.png",TV Osaka (7ch) [A]
-http://akariko.netgenx.site/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/9w06U7I.png",TV Osaka (7ch) [z]
 http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying
 
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/BXTKuil.png",関西テレビ (8ch) [A]
-http://akariko.netgenx.site/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/BXTKuil.png",関西テレビ (8ch) [z]
 http://58.82.168.138:5002/gx03.m3u8?token=guoziyun&gid=gx03&channel=zhongying
 
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GcnuP5f.png",読売テレビ (10ch) [A]
-http://akariko.netgenx.site/stream/jp/ytv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GcnuP5f.png",読売テレビ (10ch) [z]
 http://58.82.168.138:5002/gx04.m3u8?token=guoziyun&gid=gx04&channel=zhongying
 
@@ -888,230 +835,95 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://stream1.freetv.fun/d10b157216483dbbe97818c472af25e7f9ba086e7abe82c0bebf8b715ebc7cdf.m3u8
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkwp" tvg-logo="https://i.imgur.com/KA2nQl6.png",NHK World Premium
-
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS [A]
-http://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS (Sub) [A]
-http://akariko.netgenx.site/stream/jp/nhk_bs_%28subch%29/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS [z]
 http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying
 
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbsp" tvg-logo="https://i.imgur.com/PeB8OaG.png",NHK BS Premium 4K [A]
-http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbsp" tvg-logo="https://i.imgur.com/PeB8OaG.png",NHK BS Premium 4K [z]
 http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying
 
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs10" tvg-logo="https://i.imgur.com/YtEpA8L.png",BS10 [A]
-http://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
-
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs10star" tvg-logo="https://i.imgur.com/1FOI6lv.png",BS10 PREMIUM [A]
-http://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs10star" tvg-logo="https://i.imgur.com/1FOI6lv.png",BS10 PREMIUM [z]
 http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying
 
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs11" tvg-logo="https://i.imgur.com/ODNGv8G.png",BS11 [A]
-http://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs11" tvg-logo="https://i.imgur.com/FhGSnBh.png",BS12 [A]
-http://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsntv" tvg-logo="https://i.imgur.com/FSEraUD.png",BS 日テレ [A]
-http://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsntv" tvg-logo="https://i.imgur.com/FSEraUD.png",BS 日テレ [z]
 http://58.82.168.138:5002/bs02.m3u8?token=guoziyun&gid=bs02&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 [A]
-http://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 [z]
 http://58.82.168.138:5002/bs03.m3u8?token=guoziyun&gid=bs03&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 4K [A]
-http://akariko.netgenx.site/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS [A]
-http://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS [z]
 http://58.82.168.138:5002/bs04.m3u8?token=guoziyun&gid=bs04&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo [A]
-http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo [z]
 http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=bs05&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo 4K [A]
-http://akariko.netgenx.site/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji [A]
-http://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji [z]
 http://58.82.168.138:5002/bs06.m3u8?token=guoziyun&gid=bs06&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/JDWZhBk.png",WOWOW Prime [A]
-http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/JDWZhBk.png",WOWOW Prime [z]
 http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/NM6C9Ut.png",WOWOW Cinema [A]
-http://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/NM6C9Ut.png",WOWOW Cinema [z]
 http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowlive" tvg-logo="https://i.imgur.com/0WzT8T7.png",WOWOW Live [A]
-http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowlive" tvg-logo="https://i.imgur.com/0WzT8T7.png",WOWOW Live [z]
 http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowplus" tvg-logo="https://i.imgur.com/IQj7wgV.png",WOWOW Plus [A]
-http://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/Smo8IeO.png",日本映画専門チャンネル [A]
-http://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/Smo8IeO.png",日本映画専門チャンネル [z]
 http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="starch1" tvg-logo="https://i.imgur.com/UTs4S01.png",Star1
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="starch2" tvg-logo="https://i.imgur.com/4ylKus2.png",Star2
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="starch3" tvg-logo="https://i.imgur.com/Jd4JDcw.jpg",Star3
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/BcwT1tN.png",BS松竹東急
-
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/ahVYCFJ.png",TBS チャンネル 1 [A]
-http://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 gFroup-title="IPTV_JPN" tvg-logo="https://i.imgur.com/rPLmGYa.png",TBS チャンネル 2 [A]
-http://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/59urRJw.png",テレ朝 ch1 [A]
-http://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/nQDjt8d.png",テレ朝 ch2 [A]
-http://akariko.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_one" tvg-logo="https://i.imgur.com/VMtAMSl.png",Fuji TV ONE [A]
-http://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_two" tvg-logo="https://i.imgur.com/Pqr5Hc5.png",Fuji TV TWO [A]
-http://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT [A]
-http://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT [z]
 http://58.82.168.138:5002/cs26.m3u8?token=guoziyun&gid=cs26&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/sKtEXVz.png",日テレプラス [A]
-http://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://i.imgur.com/xC3Xkaq.png",KBS World [A]
-http://akariko.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="mnet" tvg-logo="https://i.imgur.com/I2rZ0a2.png",Mnet Japan [A]
-http://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 tvg-id="CH.657" tvg-name="KNTV" tvg-logo="https://i.imgur.com/whxr1Vr.png",KNTV [A]
-http://akariko.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/4lA3ujd.png",Space Shower TV [A]
-http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/4lA3ujd.png",Space Shower TV [z]
 http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/cW3BuH8.png",歌謡ポップスチャンネル [A]
-http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/cW3BuH8.png",歌謡ポップスチャンネル [z]
 http://58.82.168.138:5002/cs13.m3u8?token=guoziyun&gid=cs13&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="mtv" tvg-logo="https://i.imgur.com/k5SjvRZ.png",MTV [A]
-http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="mtv" tvg-logo="https://i.imgur.com/k5SjvRZ.png",MTV [z]
 http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/RsdItoE.png",MUSIC JAPAN [A]
-http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/RsdItoE.png",MUSIC JAPAN [z]
 http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/rKwzSDu.png",Music ON TV! [A]
-http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Q7G6yso.png",TAKARAZUKA SKY STAGE [A]
-http://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Q7G6yso.png",TAKARAZUKA SKY STAGE [z]❌
 http://58.82.168.138:5002/cs28.m3u8?token=guoziyun&gid=cs28&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-161-400x400.png",ミュージック・エア [A]
-http://akariko.netgenx.site/stream/jp/music_air/stream-output.m3u8?mode=hls
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX [A]
-http://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX [z]
 http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GbHFx5O.jpg",AT-X [A]
-http://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneych" tvg-logo="https://i.imgur.com/RtlPVqo.png",Disney Channel Japan [A]
-http://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneych" tvg-logo="https://i.imgur.com/RtlPVqo.png",Disney Channel Japan [z]
 http://58.82.168.138:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneyjr" tvg-logo="https://i.imgur.com/JqJ04rw.png",Disney Junior [A]
-http://akariko.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneyjr" tvg-logo="https://i.imgur.com/JqJ04rw.png",Disney Junior [z]
 http://58.82.168.138:5002/cs23.m3u8?token=guoziyun&gid=cs23&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network [A]
-http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network [z]
 http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
 
@@ -1120,237 +932,115 @@ http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
 http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying
 
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="homedrama" tvg-logo="https://i.imgur.com/V0p5pXf.png",スーパー！ドラマTV [A]
-http://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="homedrama" tvg-logo="https://i.imgur.com/oAahRiY.png",ホームドラマチャンネル [A]
-http://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="homedrama" tvg-logo="https://i.imgur.com/oAahRiY.png",ホームドラマチャンネル [z]
 http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=cs05&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jLiNiH6.png",LaLaTV [A]
-http://akariko.netgenx.site/stream/jp/lala_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jLiNiH6.png",LaLaTV [z]
 http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=cs19&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河 [A]
-http://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河 [z]❌
 http://58.82.168.138:5002/cs29.m3u8?token=guoziyun&gid=cs29&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="toeich" tvg-logo="https://i.imgur.com/l9ogNCL.jpg",東映チャンネル [A]
-http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="toeich" tvg-logo="https://i.imgur.com/l9ogNCL.jpg",東映チャンネル [z]❌
 http://58.82.168.138:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/NwWMeDe.png",ファミリー劇場 [A]
-http://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/NwWMeDe.png",ファミリー劇場 [z]
 http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&gid=cs20&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="eigeki" tvg-logo="https://i.imgur.com/GfgT9ZJ.png",衛星劇場 (Eisei Gekijo) [A]
-http://akariko.netgenx.site/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="eigeki" tvg-logo="https://i.imgur.com/GfgT9ZJ.png",衛星劇場 (Eisei Gekijo) [z]
 http://58.82.168.138:5002/cs22.m3u8?token=guoziyun&gid=cs22&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="neco" tvg-logo="https://i.imgur.com/rSw1VRn.png",映画・チャンネルNECO [A]
-http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="thecinema" tvg-logo="https://i.imgur.com/yAyyAi7.png",ザ・シネマ (The Cinema)　[A]
-http://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="movieplus" tvg-logo="https://i.imgur.com/4fPQrVw.png",ムービープラス (Movie Plus) [A]
-http://akariko.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="movieplus" tvg-logo="https://i.imgur.com/4fPQrVw.png",ムービープラス (Movie Plus) [z]
 http://58.82.168.138:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/PK6wc9g.png",時代劇専門チャンネル [A]
-http://akariko.netgenx.site/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/PK6wc9g.png",時代劇専門チャンネル [z]
 http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=cs04&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/O8virv1.png",Mystery Channel [A]
-http://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/DMlVvZP.png",Action Channel [A]
-http://akariko.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="dlife" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife [A]
-http://akariko.netgenx.site/stream/jp/dlife/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="dlife" tvg-logo="https://i.imgur.com/zRtJQuj.png",Dlife ❌
-https://live.livingjtv.live/jp57/playlist.m3u8?token=M7VMdfn2WH
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GlPDTnn.png",エンタメ～テレ
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/AFNYXOI.png",メ～テレNEXT ❌
-https://live.livingjtv.live/jp86/playlist.m3u8?token=M7VMdfn2WH
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/0C5G1lV.png",MONDO TV [A]
-http://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/0C5G1lV.png",MONDO TV [z]
 http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=cs21&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/yGwjs7A.png",囲碁・将棋チャンネル [A]
-http://akariko.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル [A]
-http://akariko.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル [z]
 http://58.82.168.138:5002/cs12.m3u8?token=guoziyun&gid=cs12&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/D4Vom6K.png",鉄道チャンネル [A]
-http://akariko.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/AlybDUC.jpg",National Geographic [A]
-http://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/AlybDUC.jpg",National Geographic [z]
 http://58.82.168.138:5002/cs10.m3u8?token=guoziyun&gid=cs10&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/saOtFDE.png",Discovery [A]
-http://akariko.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/saOtFDE.png",Discovery [z]
 http://58.82.168.138:5002/cs08.m3u8?token=guoziyun&gid=cs08&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/XesOF9w.png",Animal Planet [A]
-http://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/XesOF9w.png",Animal Planet [z]
 http://58.82.168.138:5002/cs24.m3u8?token=guoziyun&gid=cs24&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/vRsZ1cu.png",HISTORY [A]
-http://akariko.netgenx.site/stream/jp/history/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/vRsZ1cu.png",HISTORY [z]
 http://58.82.168.138:5002/cs09.m3u8?token=guoziyun&gid=cs09&channel=zhongying
 
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js1" tvg-logo="https://i.imgur.com/1AS0EQQ.png",J SPORTS 1 [A]
-http://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="js1" tvg-logo="https://i.imgur.com/1AS0EQQ.png",J SPORTS 1 [z]
 http://58.82.168.138:5002/bs18.m3u8?token=guoziyun&gid=bs18&channel=zhongying
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js2" tvg-logo="https://i.imgur.com/BgdzJtn.png",J SPORTS 2 [A]
-http://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="js2" tvg-logo="https://i.imgur.com/BgdzJtn.png",J SPORTS 2 [z]
 http://58.82.168.138:5002/bs19.m3u8?token=guoziyun&gid=bs19&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js3" tvg-logo="https://i.imgur.com/2HwhysX.png",J SPORTS 3 [A]
-http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="js3" tvg-logo="https://i.imgur.com/2HwhysX.png",J SPORTS 3 [z]
 http://58.82.168.138:5002/bs21.m3u8?token=guoziyun&gid=bs21&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="js4" tvg-logo="https://i.imgur.com/pa9669n.png",J SPORTS 4 [A]
-http://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="js4" tvg-logo="https://i.imgur.com/pa9669n.png",J SPORTS 4 [z]
 http://58.82.168.138:5002/bs22.m3u8?token=guoziyun&gid=bs22&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="greench" tvg-logo="https://i.imgur.com/OlGWXHj.png",GREEN Channel [A]
-http://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="greench" tvg-logo="https://i.imgur.com/OlGWXHj.png",GREEN Channel [z]
 http://58.82.168.138:5002/bs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="gaora" tvg-logo="https://i.imgur.com/q31tcoy.png",GAORA SPORTS [A]
-http://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="gaora" tvg-logo="https://i.imgur.com/q31tcoy.png",GAORA SPORTS [z]
 http://58.82.168.138:5002/cs17.m3u8?token=guoziyun&gid=cs17&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/hkdoiaW.png",日テレジータス [A]
-http://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/hkdoiaW.png",日テレジータス [z]
 http://58.82.168.138:5002/cs02.m3u8?token=guoziyun&gid=cs02&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/IayTCS3.png",FIGHTING TV サムライ [A]
-http://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/qTKSPiL.png",G GOLF NETWORK [A]
-http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/qTKSPiL.png",G GOLF NETWORK [z]
 http://58.82.168.138:5002/cs03.m3u8?token=guoziyun&gid=cs03&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="sports_live_plus" tvg-logo="https://i.imgur.com/IZSmzcR.png",Sport Live Plus [A]
-http://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="fishing" tvg-logo="https://i.imgur.com/3TfvUTJ.png",釣りビジョン [A]
-http://akariko.netgenx.site/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fishing" tvg-logo="https://i.imgur.com/3TfvUTJ.png",釣りビジョン [z]
 http://58.82.168.138:5002/bs25.m3u8?token=guoziyun&gid=bs25&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS [A]
-http://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS [z] ❌
 http://58.82.168.138:5002/bs31.m3u8?token=guoziyun&gid=bs31&channel=zhongying
 
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A) [A]
-http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A) [z]
 http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=cs01&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="v_paradise" tvg-logo="https://i.imgur.com/1jbDsxl.png",V Paradise [A]
-http://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/iZ17rjw.png",Pigoo [A]
-http://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Pio1aZZ.png",日テレNEWS24 [A]
-http://akariko.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/VefBXAR.png",TBS NEWS [A]
-http://akariko.netgenx.site/stream/jp/tbs_news/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/VefBXAR.png",TBS NEWS [z]
 http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=cs11&channel=zhongying
 
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/8Igk2QH.png",ウェザーニューズ [A]
-http://akariko.netgenx.site/stream/jp/weather_news/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ZpG1nvT.png",BBC [A]
-http://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ZpG1nvT.png",BBC [z]
 http://58.82.168.138:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/1AXz840.png",CNNj [A]
-http://akariko.netgenx.site/stream/jp/cnnj/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/1AXz840.png",CNNj [z]
 http://58.82.168.138:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying
 
