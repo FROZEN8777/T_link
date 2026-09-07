@@ -189,7 +189,7 @@ http://43.137.43.57/get_channel.php?channel=tvn
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/zJklWds.png",tvN [xy]
 https://backup.760515.xyz/playlist/tvn-playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",tvN SHOW [xy]
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/UsGJg3E.png",tvN SHOW [xy]
 https://backup.760515.xyz/playlist/tvN SHOW-playlist.m3u8
 
 
@@ -249,16 +249,16 @@ http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 http://koreatv.dothome.co.kr/mbcnet.php
 
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",투니버스 [xy]
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/3BGPwai.png",투니버스 [xy]
 https://backup.760515.xyz/playlist/투니버스-playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",ANIMAX [xy]
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/OaWucYb.png",ANIMAX [xy]
 https://backup.760515.xyz/playlist/애니맥스-playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",ANIBOX [xy]
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/OI5E88h.png",ANIBOX [xy]
 https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",Mnet [xy]
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/7Ec0za7.png",Mnet [xy]
 https://backup.760515.xyz/playlist/Mnet-playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-id="" tvg-logo="https://i.imgur.com/vRsZ1cu.png",HISTORY [xy]
@@ -496,7 +496,7 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ViGcbvW.png",Persiana Korea (중동 위성방송)
 https://korhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",KPOP MIX (TVOMIX)
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/C4j70TF.png",KPOP MIX (TVOMIX)
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 
 
