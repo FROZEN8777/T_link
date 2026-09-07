@@ -498,6 +498,9 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/ViGcbvW.png",Persiana Korea (중동 위성방송)
 https://korhls.persiana.live/hls/stream.m3u8
 
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="",KPOP MIX (TVOMIX)
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CeQ2Iy.png" group-title="LG Channels",【 ▼▼ LG Channels ▼▼ 】
 https://#
