@@ -161,7 +161,7 @@ https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/XIRXkJ5.png",jtbc4 [xy]
 https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo=""https://i.imgur.com/RGtCYva.png",Lifetime [xy]
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/RGtCYva.png",Lifetime [xy]
 https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8
 
 
