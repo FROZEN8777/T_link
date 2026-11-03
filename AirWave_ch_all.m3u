@@ -1,9 +1,9 @@
 #EXTM3U
 #AirWaveTV_ch_all 2026/05/24 Release
-#Update date 2026/09/16
+#Update date 2026/11/04
 
 #KOREA
-#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 2026/09/16　】
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/Q8iyzLG.png" group-title="",【　IPTV / Update date 2026/11/04　】
 https://#
 
 
@@ -1080,7 +1080,7 @@ https://#
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd01
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkg" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G (1ch) [j]
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/h264/playlist.m3u8
@@ -1090,39 +1090,39 @@ https://nhk4.mov3.co/hls/nhk.m3u8
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhke" tvg-logo="https://i.imgur.com/fXWwAw5.png",NHK E (2ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd02
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd04
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="tbs" tvg-logo="https://i.imgur.com/oa6dlDi.png",TBS (4ch) [M]
 https://tbs5.mov3.co/hls/tbs.m3u8
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd06
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/ourhXhn.png",テレビ朝日 (6ch) [M]
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo (7ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd07
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="tvtokyo" tvg-logo="https://i.imgur.com/jojBU82.png",TV Tokyo (7ch) [M]
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd05
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fujitv" tvg-logo="https://i.imgur.com/6bmumQz.png",Fuji TV (8ch) [M]
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX1 (9ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd08
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="tokyomx" tvg-logo="https://i.imgur.com/4p3AhKD.png",TOKYO MX2 (9-2ch) [h]
@@ -1130,7 +1130,7 @@ http://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd03
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="ntv" tvg-logo="https://i.imgur.com/bsYe9WX.png",日テレ (10ch) [M]
 https://ntv5.mov3.co/hls/ntv.m3u8
@@ -1140,15 +1140,15 @@ http://main1.mov3.co/hls/main.m3u8
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/2rsJxWv.png",NHK G Osaka (1ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx06
+https://ri.shinori.my.id/pxx.php?shk_cid=gx06
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/siYIGI0.png",SUN TV (3ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx07
+https://ri.shinori.my.id/pxx.php?shk_cid=gx07
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ORJsGlz.png",MBS (4ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx01
+https://ri.shinori.my.id/pxx.php?shk_cid=gx01
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/SDOf1Bv.png",KBS (5ch) [h]
@@ -1156,19 +1156,19 @@ http://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jbRpjfy.png",ABC (6ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx02
+https://ri.shinori.my.id/pxx.php?shk_cid=gx02
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/9w06U7I.png",TV Osaka (7ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx05
+https://ri.shinori.my.id/pxx.php?shk_cid=gx05
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/BXTKuil.png",関西テレビ (8ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx03
+https://ri.shinori.my.id/pxx.php?shk_cid=gx03
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GcnuP5f.png",読売テレビ (10ch) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx04
+https://ri.shinori.my.id/pxx.php?shk_cid=gx04
 
 
 
@@ -1189,11 +1189,11 @@ https://stream1.freetv.fun/d10b157216483dbbe97818c472af25e7f9ba086e7abe82c0bebf8
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/gDEFwc0.png",NHK BS [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs11
+https://ri.shinori.my.id/pxx.php?shk_cid=bs11
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="nhkbsp" tvg-logo="https://i.imgur.com/PeB8OaG.png",NHK BS Premium 4K [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
+https://ri.shinori.my.id/pxx.php?shk_cid=bs01
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs10" tvg-logo="https://i.imgur.com/YtEpA8L.png",BS10 [h]
@@ -1201,7 +1201,7 @@ http://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs10star" tvg-logo="https://i.imgur.com/1FOI6lv.png",BS10 PREMIUM [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs08
+https://ri.shinori.my.id/pxx.php?shk_cid=bs08
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bs11" tvg-logo="https://i.imgur.com/ODNGv8G.png",BS11 [h]
@@ -1213,11 +1213,11 @@ http://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsntv" tvg-logo="https://i.imgur.com/FSEraUD.png",BS 日テレ [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs02
+https://ri.shinori.my.id/pxx.php?shk_cid=bs02
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
+https://ri.shinori.my.id/pxx.php?shk_cid=bs03
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/dqz0uK8.png",BS 朝日 4K [N] ❌
@@ -1225,11 +1225,11 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstbs" tvg-logo="https://i.imgur.com/Pik20MV.png",BS TBS [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs04
+https://ri.shinori.my.id/pxx.php?shk_cid=bs04
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs05
+https://ri.shinori.my.id/pxx.php?shk_cid=bs05
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/uNRTii8.png",BS TV Tokyo 4K [N] ❌
@@ -1237,19 +1237,19 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs05
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/INK5qPn.png",BS Fuji [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs06
+https://ri.shinori.my.id/pxx.php?shk_cid=bs06
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/JDWZhBk.png",WOWOW Prime [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs12
+https://ri.shinori.my.id/pxx.php?shk_cid=bs12
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/NM6C9Ut.png",WOWOW Cinema [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs07
+https://ri.shinori.my.id/pxx.php?shk_cid=bs07
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowlive" tvg-logo="https://i.imgur.com/0WzT8T7.png",WOWOW Live [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
+https://ri.shinori.my.id/pxx.php?shk_cid=bs20
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="wowowplus" tvg-logo="https://i.imgur.com/IQj7wgV.png",WOWOW Plus [h]
@@ -1257,7 +1257,7 @@ http://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/Smo8IeO.png",日本映画専門チャンネル [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs23
+https://ri.shinori.my.id/pxx.php?shk_cid=bs23
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="starch1" tvg-logo="https://i.imgur.com/UTs4S01.png",Star1
@@ -1295,7 +1295,7 @@ http://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/xdkeTGU.png",Fuji TV NEXT [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs26
+https://ri.shinori.my.id/pxx.php?shk_cid=cs26
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/sKtEXVz.png",日テレプラス [h]
@@ -1315,19 +1315,19 @@ http://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/4lA3ujd.png",Space Shower TV [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs26
+https://ri.shinori.my.id/pxx.php?shk_cid=bs26
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/cW3BuH8.png",歌謡ポップスチャンネル [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs13
+https://ri.shinori.my.id/pxx.php?shk_cid=cs13
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="mtv" tvg-logo="https://i.imgur.com/k5SjvRZ.png",MTV [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
+https://ri.shinori.my.id/pxx.php?shk_cid=cs18
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/RsdItoE.png",MUSIC JAPAN [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs06
+https://ri.shinori.my.id/pxx.php?shk_cid=cs06
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/rKwzSDu.png",Music ON TV! [h]
@@ -1335,7 +1335,7 @@ http://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Q7G6yso.png",TAKARAZUKA SKY STAGE [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs28
+https://ri.shinori.my.id/pxx.php?shk_cid=cs28
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-161-400x400.png",ミュージック・エア [h]
@@ -1343,7 +1343,7 @@ http://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="animax" tvg-logo="https://i.imgur.com/OwnTgnf.png",ANIMAX [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
+https://ri.shinori.my.id/pxx.php?shk_cid=bs15
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/GbHFx5O.jpg",AT-X [h]
@@ -1351,48 +1351,48 @@ http://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneych" tvg-logo="https://i.imgur.com/RtlPVqo.png",Disney Channel Japan [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs24
+https://ri.shinori.my.id/pxx.php?shk_cid=bs24
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="disneyjr" tvg-logo="https://i.imgur.com/JqJ04rw.png",Disney Junior [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs23
+https://ri.shinori.my.id/pxx.php?shk_cid=cs23
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="cn" tvg-logo="https://i.imgur.com/4i8Vy8z.png",Cartoon Network [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs25
+https://ri.shinori.my.id/pxx.php?shk_cid=cs25
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/FemtRLp.png",Kids Station [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs07
+https://ri.shinori.my.id/pxx.php?shk_cid=cs07
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="homedrama" tvg-logo="https://i.imgur.com/V0p5pXf.png",スーパー！ドラマTV [N]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/V0p5pXf.png",スーパー！ドラマTV [N]
 
 
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="homedrama" tvg-logo="https://i.imgur.com/oAahRiY.png",ホームドラマチャンネル [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs05
+https://ri.shinori.my.id/pxx.php?shk_cid=cs05
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/jLiNiH6.png",LaLaTV [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs19
+https://ri.shinori.my.id/pxx.php?shk_cid=cs19
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/Aeqeran.png",チャンネル銀河 [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs29
+https://ri.shinori.my.id/pxx.php?shk_cid=cs29
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="toeich" tvg-logo="https://i.imgur.com/l9ogNCL.jpg",東映チャンネル [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
+https://ri.shinori.my.id/pxx.php?shk_cid=cs27
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/NwWMeDe.png",ファミリー劇場 [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs20
+https://ri.shinori.my.id/pxx.php?shk_cid=cs20
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="eigeki" tvg-logo="https://i.imgur.com/GfgT9ZJ.png",衛星劇場 (Eisei Gekijo) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs22
+https://ri.shinori.my.id/pxx.php?shk_cid=cs22
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="neco" tvg-logo="https://i.imgur.com/rSw1VRn.png",映画・チャンネルNECO [h]
@@ -1404,18 +1404,18 @@ http://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="movieplus" tvg-logo="https://i.imgur.com/4fPQrVw.png",ムービープラス (Movie Plus) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs14
+https://ri.shinori.my.id/pxx.php?shk_cid=cs14
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="familygeki" tvg-logo="https://i.imgur.com/PK6wc9g.png",時代劇専門チャンネル [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs04
+https://ri.shinori.my.id/pxx.php?shk_cid=cs04
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/O8virv1.png",Mystery Channel [h]
 http://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
 
 
-#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/DMlVvZP.png",Action Channel [h]
+#EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/DMlVvZP.png",Action Channel [h] ❌
 http://haru.charandom.blog/stream/jp/action_channel_(axn)/stream-output.m3u8?mode=hls
 
 
@@ -1432,7 +1432,7 @@ http://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/0C5G1lV.png",MONDO TV [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs21
+https://ri.shinori.my.id/pxx.php?shk_cid=cs21
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/yGwjs7A.png",囲碁・将棋チャンネル [h]
@@ -1440,7 +1440,7 @@ http://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ajiifkC.png",旅チャンネル [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs12
+https://ri.shinori.my.id/pxx.php?shk_cid=cs12
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/D4Vom6K.png",鉄道チャンネル [h]
@@ -1448,47 +1448,47 @@ http://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/AlybDUC.jpg",National Geographic [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs10
+https://ri.shinori.my.id/pxx.php?shk_cid=cs10
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/saOtFDE.png",Discovery [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs08
+https://ri.shinori.my.id/pxx.php?shk_cid=cs08
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/XesOF9w.png",Animal Planet [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs24
+https://ri.shinori.my.id/pxx.php?shk_cid=cs24
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/vRsZ1cu.png",HISTORY [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs09
+https://ri.shinori.my.id/pxx.php?shk_cid=cs09
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="js1" tvg-logo="https://i.imgur.com/1AS0EQQ.png",J SPORTS 1 [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs18
+https://ri.shinori.my.id/pxx.php?shk_cid=bs18
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="js2" tvg-logo="https://i.imgur.com/BgdzJtn.png",J SPORTS 2 [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs19
+https://ri.shinori.my.id/pxx.php?shk_cid=bs19
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="js3" tvg-logo="https://i.imgur.com/2HwhysX.png",J SPORTS 3 [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs21
+https://ri.shinori.my.id/pxx.php?shk_cid=bs21
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="js4" tvg-logo="https://i.imgur.com/pa9669n.png",J SPORTS 4 [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
+https://ri.shinori.my.id/pxx.php?shk_cid=bs22
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="greench" tvg-logo="https://i.imgur.com/OlGWXHj.png",GREEN Channel [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs14
+https://ri.shinori.my.id/pxx.php?shk_cid=bs14
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="gaora" tvg-logo="https://i.imgur.com/q31tcoy.png",GAORA SPORTS [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs17
+https://ri.shinori.my.id/pxx.php?shk_cid=cs17
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/hkdoiaW.png",日テレジータス [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs02
+https://ri.shinori.my.id/pxx.php?shk_cid=cs02
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/IayTCS3.png",FIGHTING TV サムライ [h]
@@ -1496,7 +1496,7 @@ http://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/qTKSPiL.png",G GOLF NETWORK [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs03
+https://ri.shinori.my.id/pxx.php?shk_cid=cs03
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="sports_live_plus" tvg-logo="https://i.imgur.com/IZSmzcR.png",Sport Live Plus [h]
@@ -1504,16 +1504,16 @@ http://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="fishing" tvg-logo="https://i.imgur.com/3TfvUTJ.png",釣りビジョン [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs25
+https://ri.shinori.my.id/pxx.php?shk_cid=bs25
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs31
+https://ri.shinori.my.id/pxx.php?shk_cid=bs31
 
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="skya" tvg-logo="https://i.imgur.com/587o08h.jpg",スカイ・A (Sky A) [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs01
+https://ri.shinori.my.id/pxx.php?shk_cid=cs01
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="v_paradise" tvg-logo="https://i.imgur.com/1jbDsxl.png",V Paradise [h]
@@ -1529,7 +1529,7 @@ http://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/VefBXAR.png",TBS NEWS [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs11
+https://ri.shinori.my.id/pxx.php?shk_cid=cs11
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-logo="https://i.imgur.com/8Igk2QH.png",ウェザーニューズ [h]
@@ -1537,11 +1537,11 @@ http://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ZpG1nvT.png",BBC [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs15
+https://ri.shinori.my.id/pxx.php?shk_cid=cs15
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/1AXz840.png",CNNj [N]
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs16
+https://ri.shinori.my.id/pxx.php?shk_cid=cs16
 
 
 
