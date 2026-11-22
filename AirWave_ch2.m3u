@@ -596,7 +596,7 @@ http://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/VefBXAR.png",TBS NEWS [z]
-http://103.255.250.188:5002/0000.m3u8?channel=zhongying&gid=cs11&token=guoziyun
+http://103.255.250.188:5002/cs11.m3u8?channel=zhongying&gid=cs11&token=guoziyun
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/VefBXAR.png",TBS NEWS [N]
 https://ri.shinori.my.id/pxx.php?shk_cid=cs11
 
@@ -606,13 +606,13 @@ http://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ZpG1nvT.png",BBC [z]
-http://103.255.250.188:5002/0000.m3u8?channel=zhongying&gid=cs15&token=guoziyun
+http://103.255.250.188:5002/cs15.m3u8?channel=zhongying&gid=cs15&token=guoziyun
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/ZpG1nvT.png",BBC [N]
 https://ri.shinori.my.id/pxx.php?shk_cid=cs15
 
 
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/1AXz840.png",CNNj [z]
-http://103.255.250.188:5002/0000.m3u8?channel=zhongying&gid=cs16&token=guoziyun
+http://103.255.250.188:5002/cs16.m3u8?channel=zhongying&gid=cs16&token=guoziyun
 #EXTINF:-1 group-title="IPTV_JPN" tvg-id="" tvg-logo="https://i.imgur.com/1AXz840.png",CNNj [N]
 https://ri.shinori.my.id/pxx.php?shk_cid=cs16
 
@@ -680,6 +680,8 @@ https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
 
 #EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png",日テレNEWS [RakutenTV]
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png",日テレNEWS [RakutenTV]0
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/34fe7e75-13a0-447d-989c-8bd470c583fa/0.m3u8
 
 #EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png",FNNプライムオンライン [RakutenTV]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
@@ -707,13 +709,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents
 
 #EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/140_anime.png", アニメ [RakutenTV]
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime1hls-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/140_anime.png", アニメ [RakutenTV]0
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime1hls-rakutenjp/0c7bd42a-fc27-473c-801e-c5294a1495c7/0.m3u8
 
 #EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",しまじろうチャンネル [RakutenTV]
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png",キッズ [RakutenTV]
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
-
+https://kids-jp.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rchannels-7-playout/7013fff6-e83e-4619-9bb7-91182638ba29/4.m3u8
+#ttps://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png",ムビドラTV [RakutenTV]
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
@@ -772,19 +776,19 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/pl
 
 
 #EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png",R15+ セクシーエンタメチャンネル [RakutenTV]
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
+https://sexy-entertainment-jp.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rchannels-5-playout/6ce3fc91-7c13-4aa8-89fb-7a59783c81ec/4.m3u8
 
-#EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png",R15+ おとなの歓楽街 by MEN’S NECO [RakutenTV]
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png",R15+ おとなの歓楽街 by MEN’S NECO [RakutenTV]4
+https://mens-neco-jp.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rchannels-4-playout/6f6f9dc9-3e25-49cc-9c51-79627a807dc1/4.m3u8
 
-#EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png",R15+ アイドル・グラビア [RakutenTV]
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png",R15+ アイドル・グラビア [RakutenTV]4
+https://gravure-jp.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rchannels-2-playout/ba3e3897-fcdb-46c5-aec7-056b922f6edf/4.m3u8
 
-#EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png",R15+ 刺激ストロング [RakutenTV]
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png",R15+ 刺激ストロング [RakutenTV]4
+https://shigeki-strong-jp.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rchannels-1-playout/8d68bdc1-73f5-4df0-963d-f9cc00c91f12/4.m3u8
 
-#EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",R15+ 映画 [RakutenTV]
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="RakutenTV_JPN" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",R15+ 映画 [RakutenTV]4
+https://adult-movies-jp.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rchannels-3-playout/15b8cafe-bdde-40c4-bf22-e46e535eeb76/4.m3u8
 
 
 
