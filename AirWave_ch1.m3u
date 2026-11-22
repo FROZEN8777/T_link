@@ -1,6 +1,6 @@
 #EXTM3U
 #AirWaveTV_ch1 2026/03/29 Release
-#Update date 2026/09/08
+#Update date 2026/11/22
 
 #KOREA
 
@@ -240,6 +240,8 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=lkQCgUJXx
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/tJjeDbM.png",KBS World [d]
 http://koreatv.dothome.co.kr/kbsworld.php
+#EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/tJjeDbM.png",KBS World
+https://stream8.cinerama.uz/1448/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV_KOR" tvg-logo="https://i.imgur.com/jy3FJvV.png",KBS LIVE Dokdo
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
